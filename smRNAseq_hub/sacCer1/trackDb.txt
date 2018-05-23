@@ -1,0 +1,24 @@
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type cry1_cov_neg    CRY1 coverage - negative strand CRY1cov-    cry1_cov_neg_R1.bw  45:45:10    44,127,184      CRY1    bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type cry1_cov_pos    CRY1 coverage - positive strand CRY1cov+    cry1_cov_pos_R1.bw  45:45:10    44,127,184      CRY1    bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type trl1_cov_neg    trl1del(10x) coverage - negative strand trl1cov-    trl1_cov_neg_R1.bw  45:45:10    217,95,14       trl1del bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type trl1_cov_pos    trl1del(10x) coverage - positive strand trl1cov+    trl1_cov_pos_R1.bw  45:45:10    217,95,14       trl1del bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type cry1_5p_neg CRY1 5´end coverage - negative strand  CRY1_5pcov- cry1_5p_neg_R1.bw   30:30:10    127,205,187     CRY1    bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type cry1_5p_pos CRY1 5´end coverage - positive strand  CRY1_5pcov+ cry1_5p_pos_R1.bw   30:30:10    127,205,187     CRY1    bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type cry1_3p_neg CRY1 3´end coverage - negative strand  CRY1_3pcov- cry1_3p_neg_R1.bw   30:30:10    127,205,187     CRY1    bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type cry1_3p_pos CRY1 3´end coverage - positive strand  CRY1_3pcov+ cry1_3p_pos_R1.bw   30:30:10    127,205,187     CRY1    bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type trl1_5p_neg trl1del(10x) 5´end coverage - negative strand  trl1_5pcov- trl1_5p_neg_R1.bw   30:30:10    254,196,79      trl1del bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type trl1_5p_pos trl1del(10x) 5´end coverage - positive strand  trl1_5pcov+ trl1_5p_pos_R1.bw   30:30:10    254,196,79      trl1del bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type trl1_3p_neg trl1del(10x) 3´end coverage - negative strand  trl1_3pcov- trl1_3p_neg_R1.bw   30:30:10    254,196,79      trl1del bigWig
+
+track   longLabel   shortLabel  bigDataUrl  maxHeightPixels color   itemRgb group   type trl1_3p_pos trl1del(10x) 3´end coverage - positive strand  trl1_3pcov+ trl1_3p_pos_R1.bw   30:30:10    254,196,79      trl1del bigWig
+

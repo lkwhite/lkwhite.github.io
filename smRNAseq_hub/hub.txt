@@ -1,0 +1,5 @@
+hub SENsmRNAseq 
+shortLabel SENsmRNAseq
+longLabel smRNAseq for CRY1 and trl1del to id cand SEN targets 
+genomesFile genomes.txt
+email laura.white@gmail.com
