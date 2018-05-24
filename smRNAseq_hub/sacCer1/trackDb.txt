@@ -13,15 +13,15 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
     windowingFunction mean
     visibility full
     subGroup1 genotype Genotype CRY1=CRY1 trl1=trl1
-    dimensions dimX=genotype 
-    sortOrder genotype=- 
+    subGroup2 strand Strand pos=pos neg=neg
+    sortOrder genotype=- strand=- 
 
         track cry1_cov_neg
         parent smRNAseq
         shortLabel CRY1cov-
         bigDataUrl cry1_cov_neg_R1.bw
         longLabel CRY1 coverage - negative strand
-        subGroups genotype=CRY1
+        subGroups genotype=CRY1 strand=neg
         maxHeightPixels 30:30:10
         color 44,127,184
         type bigWig
@@ -31,7 +31,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel CRY1cov+
         bigDataUrl cry1_cov_pos_R1.bw
         longLabel CRY1 coverage - positive strand
-        subGroups genotype=CRY1
+        subGroups genotype=CRY1 strand=pos
         maxHeightPixels 30:30:10
         color 37,52,148
         type bigWig
@@ -41,7 +41,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel trl1cov-
         bigDataUrl trl1_cov_neg_R1.bw
         longLabel trl1del(10x) coverage - negative strand
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=neg
         maxHeightPixels 30:30:10
         color 217,95,14
         type bigWig
@@ -51,7 +51,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel trl1cov+
         bigDataUrl trl1_cov_pos_R1.bw
         longLabel trl1del(10x) coverage - positive strand
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=pos
         maxHeightPixels 30:30:10
         color 153,52,4
         type bigWig
@@ -61,7 +61,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel CRY1_5pcov-
         bigDataUrl cry1_5p_neg_R1.bw
         longLabel CRY1 5´end coverage - negative strand
-        subGroups genotype=CRY1
+        subGroups genotype=CRY1 strand=neg
         maxHeightPixels 30:30:10
         color 44,127,184
         type bigWig
@@ -71,7 +71,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel CRY1_5pcov+
         bigDataUrl cry1_5p_pos_R1.bw
         longLabel CRY1 5´end coverage - positive strand
-        subGroups genotype=CRY1
+        subGroups genotype=CRY1 strand=pos
         maxHeightPixels 30:30:10
         color 37,52,148
         type bigWig
@@ -81,7 +81,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel CRY1_3pcov-
         bigDataUrl cry1_3p_neg_R1.bw
         longLabel CRY1 3´end coverage - negative strand
-        subGroups genotype=CRY1
+        subGroups genotype=CRY1 strand=neg
         maxHeightPixels 30:30:10
         color 44,127,184
         type bigWig
@@ -91,7 +91,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel CRY1_3pcov+
         bigDataUrl cry1_3p_pos_R1.bw
         longLabel CRY1 3´end coverage - positive strand
-        subGroups genotype=CRY1
+        subGroups genotype=CRY1 strand=pos
         maxHeightPixels 30:30:10
         color 37,52,148
         type bigWig
@@ -101,7 +101,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel trl1_5pcov-
         bigDataUrl trl1_5p_neg_R1.bw
         longLabel trl1del(10x) 5´end coverage - negative strand
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=neg
         maxHeightPixels 30:30:10
         color 217,95,14
         type bigWig
@@ -111,7 +111,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel trl1_5pcov+
         bigDataUrl trl1_5p_pos_R1.bw
         longLabel trl1del(10x) 5´end coverage - positive strand
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=pos
         maxHeightPixels 30:30:10
         color 153,52,4
         type bigWig
@@ -121,7 +121,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel trl1_3pcov-
         bigDataUrl trl1_3p_neg_R1.bw
         longLabel trl1del(10x) 3´end coverage - negative strand
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=neg
         maxHeightPixels 30:30:10
         color 217,95,14
         type bigWig
@@ -131,7 +131,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel trl1_3pcov+
         bigDataUrl trl1_3p_pos_R1.bw
         longLabel trl1del(10x) 3´end coverage - positive strand
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=pos
         maxHeightPixels 30:30:10
         color 153,52,4
         type bigWig
