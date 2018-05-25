@@ -16,6 +16,16 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
     subGroup2 strand Strand pos=pos neg=neg
     sortOrder genotype=- strand=- 
 
+        track top100frags
+        parent smRNAseq
+        shortlabel top100frags
+        bigDataUrl top100.bb
+        longLabel 100 most abundant fragments in trl1
+        subGroups genotype=trl1
+        maxHeightPixels 30:30:10
+        color 37,37,37
+        type bigBed
+
         track cry1_cov_neg
         parent smRNAseq
         shortLabel CRY1cov-
