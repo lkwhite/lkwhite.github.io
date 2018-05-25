@@ -21,7 +21,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortlabel top100frags
         bigDataUrl top100.bb
         longLabel 100 most abundant fragments in trl1
-        subGroups genotype=trl1
+        subGroups genotype=trl1 strand=neg
         maxHeightPixels 30:30:10
         color 37,37,37
         type bigBed
