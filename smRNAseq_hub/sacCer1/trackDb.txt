@@ -12,7 +12,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
     autoScale on
     windowingFunction mean
     visibility full
-    subGroup1 genotype Genotype CRY1=CRY1 trl1=trl1
+    subGroup1 genotype Genotype CRY1=CRY1 trl1=trl bartel=bartel
     subGroup2 strand Strand pos=pos neg=neg
     sortOrder genotype=- strand=- 
 
@@ -151,7 +151,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel Bartel 09 -
         bigDataUrl SRR030143_neg.bw
         longLabel Drinnenberg 2009 sacCer coverage - negative strand
-        subGroups genotype=trl1 strand=neg
+        subGroups genotype=bartel strand=neg
         maxHeightPixels 30:30:10
         color 166,189,219
         type bigWig
@@ -161,7 +161,7 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         shortLabel Bartel 09 +
         bigDataUrl SRR030143_pos.bw
         longLabel Drinnenberg 2009 sacCer coverage - positive strand
-        subGroups genotype=trl1 strand=pos
+        subGroups genotype=bartel strand=pos
         maxHeightPixels 30:30:10
         color 43,140,190
         type bigWig
