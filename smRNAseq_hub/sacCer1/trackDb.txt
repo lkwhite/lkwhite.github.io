@@ -145,3 +145,65 @@ longLabel Signals of putative ribonuclease cleavage in S. cerevisiae
         maxHeightPixels 30:30:10
         color 153,52,4
         type bigWig
+
+        track SRR030143neg
+        parent smRNAseq
+        shortLabel Bartel 09 -
+        bigDataUrl SRR030143_neg.bw
+        longLabel Drinnenberg 2009 sacCer coverage - negative strand
+        subGroups genotype=trl1 strand=neg
+        maxHeightPixels 30:30:10
+        color 166,189,219
+        type bigWig
+
+        track SRR030143pos
+        parent smRNAseq
+        shortLabel Bartel 09 +
+        bigDataUrl SRR030143_pos.bw
+        longLabel Drinnenberg 2009 sacCer coverage - positive strand
+        subGroups genotype=trl1 strand=pos
+        maxHeightPixels 30:30:10
+        color 43,140,190
+        type bigWig
+
+
+        track trl1_3p_neg
+        parent smRNAseq
+        shortLabel trl1_3pcov-
+        bigDataUrl trl1_3p_neg_R1.bw
+        longLabel trl1del(10x) 3´end coverage - negative strand
+        subGroups genotype=trl1 strand=neg
+        maxHeightPixels 30:30:10
+        color 217,95,14
+        type bigWig
+
+        track trl1_3p_pos
+        parent smRNAseq
+        shortLabel trl1_3pcov+
+        bigDataUrl trl1_3p_pos_R1.bw
+        longLabel trl1del(10x) 3´end coverage - positive strand
+        subGroups genotype=trl1 strand=pos
+        maxHeightPixels 30:30:10
+        color 153,52,4
+        type bigWig
+
+        track trl1_3p_neg
+        parent smRNAseq
+        shortLabel trl1_3pcov-
+        bigDataUrl trl1_3p_neg_R1.bw
+        longLabel trl1del(10x) 3´end coverage - negative strand
+        subGroups genotype=trl1 strand=neg
+        maxHeightPixels 30:30:10
+        color 217,95,14
+        type bigWig
+
+        track trl1_3p_pos
+        parent smRNAseq
+        shortLabel trl1_3pcov+
+        bigDataUrl trl1_3p_pos_R1.bw
+        longLabel trl1del(10x) 3´end coverage - positive strand
+        subGroups genotype=trl1 strand=pos
+        maxHeightPixels 30:30:10
+        color 153,52,4
+        type bigWig
+
