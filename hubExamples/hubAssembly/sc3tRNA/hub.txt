@@ -1,0 +1,6 @@
+hub sc3tRNA 
+shortLabel tRNAs in sacCer3 
+longLabel tRNAs hub for sacCer3 / gtRNAdb2.0 
+genomesFile genomes.txt
+email laura.white@gmail.com
+descriptionUrl sc3trna.html
