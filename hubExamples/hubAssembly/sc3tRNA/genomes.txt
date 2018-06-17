@@ -4,11 +4,6 @@ groups groups.txt
 description sc3tRNA from gtRNAdb2.0
 twoBitPath sc3tRNA/sc3tRNA.2bit
 organism Saccharomyces cerevisiae
-defaultPos tRNA-Ala-TGC-1-1:1-76 
 orderKey 4700
 scientificName Saccharomyces cerevisiae
 htmlPath sc3tRNA/description.html
-#blat localhost 17779
-#transBlat localhost 17777
-#Note: Usually instead of localhost you will use the host name of where the gfserver is located (blat yourLab.yourInstitution.edu 17779) 
-#See more here: http://genomewiki.ucsc.edu/index.php/Assembly_Hubs#Adding_BLAT_servers
