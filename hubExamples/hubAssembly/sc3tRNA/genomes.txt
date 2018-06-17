@@ -4,7 +4,7 @@ groups groups.txt
 description sc3tRNA from gtRNAdb2.0
 twoBitPath sc3tRNA/sc3tRNA.2bit
 organism Saccharomyces cerevisiae
-defaultPos chr1:1-500
+defaultPos tRNA-Ala-TGC-1-1:1-76 
 orderKey 4700
 scientificName Saccharomyces cerevisiae
 htmlPath sc3tRNA/description.html
