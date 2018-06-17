@@ -1,0 +1,11 @@
+track assembly_
+longLabel Assembly 
+shortLabel Assembly 
+priority 10
+visibility pack
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl bbi/sc3tRNA.assembly.bb
+type bigBed 6
+
