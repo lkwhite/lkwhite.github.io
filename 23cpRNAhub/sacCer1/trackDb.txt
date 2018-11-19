@@ -1,0 +1,98 @@
+track BY4742+
+longLabel yAVBY4742+
+shortLabel BY+
+bigDataUrl 1.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track BY4742-
+longLabel yAVBY4742-
+shortLabel BY-
+bigDataUrl 1.5pe.neg.bw
+color 0,68,27
+type bigWig
+
+track trl1d+
+longLabel trl1del10x+
+shortLabel trl1d+
+bigDataUrl 2.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track trl1d-
+longLabel trl1del10x-
+shortLabel trl1d-
+bigDataUrl 2.5pe.neg.bw
+color 0,68,27
+type bigWig
+
+track SEN2ts+
+longLabel SEN2ts+
+shortLabel SEN2ts+
+bigDataUrl 3.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track SEN2ts-
+longLabel SEN2ts-
+shortLabel SEN2ts-
+bigDataUrl 3.5pe.neg.bw
+color 0,68,27
+type bigWig
+
+track ski7d+
+longLabel ski7del+
+shortLabel ski7d+
+bigDataUrl 4.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track ski7d-
+longLabel ski7del-
+shortLabel ski7d-
+bigDataUrl 4.5pe.neg.bw
+color 0,68,27
+type bigWig
+
+track trl1dski2d+
+longLabel trl1delski2del10x+
+shortLabel trl1dski2d+
+bigDataUrl 5.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track trl1dski2d-
+longLabel trl1delski2del10x-
+shortLabel trl1dski2d-
+bigDataUrl 5.5pe.neg.bw
+color 0,68,27
+type bigWig
+
+track CRY1+
+longLabel CRY1+
+shortLabel CRY1+
+bigDataUrl 6.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track CRY1-
+longLabel CRY1-
+shortLabel CRY1-
+bigDataUrl 6.5pe.neg.bw
+color 0,68,27
+type bigWig
+
+track sen2ski7+
+longLabel SEN2tsski7del+
+shortLabel sen2ski7+
+bigDataUrl 7.5pe.pos.bw
+color 0,68,27
+type bigWig
+
+track sen2ski7-
+longLabel SEN2tsski7del-
+shortLabel sen2ski7-
+bigDataUrl 7.5pe.neg.bw
+color 0,68,27
+type bigWig
+

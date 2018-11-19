@@ -1,0 +1,5 @@
+hub 23cpseq 
+shortLabel 23cpseq
+longLabel 23cpseq to id cand SEN targets 
+genomesFile genomes.txt
+email laura.white@gmail.com
