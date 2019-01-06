@@ -143,8 +143,8 @@ group trl1ski2
 type bigWig
 
 track trl1dski2d(10x)_un_pos_23cp5OHseq_5pend
-longLabel trl1dski2d(10x)_un_pos_cov_23cp5OHseq_5pend
-shortLabel trl1ski2u_235+
+longLabel trl1dski2d(10x)_un_pos_23cp5OHseq_5pend
+shortLabel trl1ski2u_235+5p
 bigDataUrl 1_S96.5pe.pos.bw
 maxHeightPixels 30:30:10
 color 228,26,28
@@ -153,8 +153,26 @@ type bigWig
 
 track trl1dski2d(10x)_un_neg_23cp5OHseq_5pend
 longLabel trl1dski2d(10x)_un_neg_23cp5OHseq_5pend
-shortLabel trl1ski2u_235-cov
+shortLabel trl1ski2u_235-5p
 bigDataUrl 1_S96.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+track trl1dski2d(10x)_un_pos_23cp5OHseq_3pend
+longLabel trl1dski2d(10x)_un_pos_23cp5OHseq_3pend
+shortLabel trl1ski2u_235+3p
+bigDataUrl 1_S96.3pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1dski2d(10x)_un_neg_23cp5OHseq_3pend
+longLabel trl1dski2d(10x)_un_neg_23cp5OHseq_3pend
+shortLabel trl1ski2u_235-3p
+bigDataUrl 1_S96.3pe.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 group trl1ski2
@@ -195,3 +213,22 @@ maxHeightPixels 30:30:10
 color 55,126,184
 group trl1ski2
 type bigWig
+
+track trl1dski2d(10x)_un_pos_23cp5OHseq_3pend
+longLabel trl1dski2d(10x)_un_pos_23cp5OHseq_3pend
+shortLabel trl1ski2u_235+3p
+bigDataUrl 1_S96.3pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1dski2d(10x)_un_neg_23cp5OHseq_3pend
+longLabel trl1dski2d(10x)_un_neg_23cp5OHseq_3pend
+shortLabel trl1ski2u_235-3p
+bigDataUrl 1_S96.3pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
