@@ -214,19 +214,19 @@ color 55,126,184
 group trl1ski2
 type bigWig
 
-track trl1dski2d(10x)_un_pos_23cp5OHseq_3pend
-longLabel trl1dski2d(10x)_un_pos_23cp5OHseq_3pend
-shortLabel trl1ski2u_235+3p
-bigDataUrl 1_S96.3pe.pos.bw
+track trl1dski2d(10x)_Tm_pos_23cp5OHseq_3pend
+longLabel trl1dski2d(10x)_Tm_pos_23cp5OHseq_3pend
+shortLabel trl1ski2T_235+3p
+bigDataUrl 2_S97.3pe.pos.bw
 maxHeightPixels 30:30:10
 color 228,26,28
 group trl1ski2
 type bigWig
 
-track trl1dski2d(10x)_un_neg_23cp5OHseq_3pend
-longLabel trl1dski2d(10x)_un_neg_23cp5OHseq_3pend
-shortLabel trl1ski2u_235-3p
-bigDataUrl 1_S96.3pe.neg.bw
+track trl1dski2d(10x)_Tm_neg_23cp5OHseq_3pend
+longLabel trl1dski2d(10x)_Tm_neg_23cp5OHseq_3pend
+shortLabel trl1ski2T_235-3p
+bigDataUrl 2_S97.3pe.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 group trl1ski2
