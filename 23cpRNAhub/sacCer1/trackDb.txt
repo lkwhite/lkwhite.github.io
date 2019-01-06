@@ -198,7 +198,7 @@ type bigWig
 
 track trl1dski2d(10x)_Tm_pos_23cp5OHseq_5pend
 longLabel trl1dski2d(10x)_Tm_pos_cov_23cp5OHseq_5pend
-shortLabel trl1ski2T_235+
+shortLabel trl1ski2T_235+5p
 bigDataUrl 2_S97.5pe.pos.bw
 maxHeightPixels 30:30:10
 color 228,26,28
@@ -207,7 +207,7 @@ type bigWig
 
 track trl1dski2d(10x)_Tm_neg_23cp5OHseq_5pend
 longLabel trl1dski2d(10x)_Tm_neg_23cp5OHseq_5pend
-shortLabel trl1ski2T_235-cov
+shortLabel trl1ski2T_235-5p
 bigDataUrl 2_S97.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
