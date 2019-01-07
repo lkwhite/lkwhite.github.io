@@ -1,0 +1,5 @@
+hub fraghub23cP5OHseq 
+shortLabel fraghub
+longLabel 23cp5OHseq to id cand endoribonuclease targets
+genomesFile genomes.txt
+email laura.white@gmail.com

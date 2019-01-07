@@ -1,0 +1,35 @@
+track trl1dski2d(10x)_un_pos_cov_23cp5OHseq 
+longLabel trl1dski2d(10x)_un_pos_cov_23cp5OHseq
+shortLabel trl1ski2u_235+cov
+bigDataUrl 1_S96.pos.frag.cov.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1dski2d(10x)_un_neg_cov_23cp5OHseq 
+longLabel trl1dski2d(10x)_un_neg_cov_23cp5OHseq
+shortLabel trl1ski2u_235-cov
+bigDataUrl 1_S96.neg.frag.cov.bw 
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+track trl1dski2d(10x)_Tm_pos_cov_23cp5OHseq 
+longLabel trl1dski2d(10x)_Tm_pos_cov_23cp5OHseq
+shortLabel trl1ski2T_235+cov
+bigDataUrl 2_S97.pos.frag.cov.bwl
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1dski2d(10x)_Tm_neg_cov_23cp5OHseq 
+longLabel trl1dski2d(10x)_Tm_neg_cov_23cp5OHseq
+shortLabel trl1ski2T_235-cov
+bigDataUrl 2_S97.neg.frag.cov.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
