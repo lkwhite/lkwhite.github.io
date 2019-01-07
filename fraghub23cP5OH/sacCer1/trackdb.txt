@@ -19,7 +19,7 @@ type bigWig
 track trl1dski2d(10x)_Tm_pos_cov_23cp5OHseq 
 longLabel trl1dski2d(10x)_Tm_pos_cov_23cp5OHseq
 shortLabel trl1ski2T_235+cov
-bigDataUrl 2_S97.pos.frag.cov.bwl
+bigDataUrl 2_S97.pos.frag.cov.bw
 maxHeightPixels 30:30:10
 color 228,26,28
 group trl1ski2
