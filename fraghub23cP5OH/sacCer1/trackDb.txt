@@ -35,6 +35,24 @@ group BY4741
 type bigWig
 
 
+track BY_30_cov_pos
+longLabel BY_30_cov_pos
+shortLabel BY30_cov+
+bigDataUrl JH138_1_S26_L003.filterlength.cov.pos.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+group BY4741
+type bigWig
+
+track BY_30_cov_neg
+longLabel BY_30_cov_neg
+shortLabel BY30_cov-
+bigDataUrl JH138_1_S26_L003.filterlength.cov.neg.bw 
+maxHeightPixels 30:30:10
+color 55,126,184
+group BY4741
+type bigWig
+
 track BY_37_3p_pos
 longLabel BY_37_3p_pos
 shortLabel BY37_3p+
@@ -66,6 +84,25 @@ track BY_37_5p_neg
 longLabel BY_37_5p_neg
 shortLabel BY37_5p-
 bigDataUrl JH138_2_S27_L003.filterlength.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group BY4741
+type bigWig
+
+
+track BY_37_cov_pos 
+longLabel BY_37_cov_pos
+shortLabel BY37_cov+
+bigDataUrl JH138_2_S27_L003.filterlength.cov.pos.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+group BY4741
+type bigWig
+
+track BY_37_cov_neg
+longLabel BY_37_cov_neg
+shortLabel BY37_cov-
+bigDataUrl JH138_2_S27_L003.filterlength.cov.neg.bw 
 maxHeightPixels 30:30:10
 color 55,126,184
 group BY4741
@@ -109,6 +146,25 @@ group sen242
 type bigWig
 
 
+track sen2_30_cov_pos
+longLabel sen2_30_cov_pos
+shortLabel sen230_cov+
+bigDataUrl JH138_3_S28_L003.filterlength.cov.pos.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+group sen242
+type bigWig
+
+track sen2_30_cov_neg
+longLabel sen2_30_cov_neg
+shortLabel sen230_cov-
+bigDataUrl JH138_3_S28_L003.filterlength.cov.neg.bw 
+maxHeightPixels 30:30:10
+color 55,126,184
+group sen242
+type bigWig
+
+
 track sen2_37_3p_pos
 longLabel sen2_37_3p_pos
 shortLabel sen237_3p+
@@ -140,6 +196,26 @@ track sen2_37_5p_neg
 longLabel sen2_37_5p_neg
 shortLabel sen237_5p-
 bigDataUrl JH138_4_S29_L003.filterlength.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group sen242
+type bigWig
+
+
+
+track sen2_37_cov_pos
+longLabel sen2_37_cov_pos
+shortLabel sen237_cov+
+bigDataUrl JH138_4_S29_L003.filterlength.cov.pos.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+group sen242
+type bigWig
+
+track sen2_37_cov_neg
+longLabel sen2_37_cov_neg
+shortLabel sen237_cov-
+bigDataUrl JH138_4_S29_L003.filterlength.cov.neg.bw 
 maxHeightPixels 30:30:10
 color 55,126,184
 group sen242
