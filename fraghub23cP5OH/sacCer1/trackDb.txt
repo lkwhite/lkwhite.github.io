@@ -195,7 +195,7 @@ type bigWig
 track sen2_37_5p_neg
 longLabel sen2_37_5p_neg
 shortLabel sen237_5p-
-bigDataUrl JH138_4_S29_L003.filterlength.5pe.pos.bw
+bigDataUrl JH138_4_S29_L003.filterlength.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 group sen242
