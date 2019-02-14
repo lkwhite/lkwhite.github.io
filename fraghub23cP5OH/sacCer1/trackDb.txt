@@ -203,6 +203,7 @@ type bigWig
 
 
 
+
 track sen2_37_cov_pos
 longLabel sen2_37_cov_pos
 shortLabel sen237_cov+
@@ -219,4 +220,119 @@ bigDataUrl JH138_4_S29_L003.filterlength.cov.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 group sen242
+type bigWig
+
+
+
+track trl1ski2_un_3p_pos 
+longLabel trl1ski2_un_3p_pos
+shortLabel trl1ski2un3p+
+bigDataUrl JH137_1_S96.filterlength.3pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1ski2_un_3p_neg
+longLabel trl1ski2_un_3p_neg
+shortLabel trl1ski2un3p-
+bigDataUrl JH137_1_S96.filterlength.3pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+
+track trl1ski2_un_5p_pos 
+longLabel trl1ski2_un_5p_pos
+shortLabel trl1ski2un5p+
+bigDataUrl JH137_1_S96.filterlength.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1ski2_un_5p_neg
+longLabel trl1ski2_un_5p_neg
+shortLabel trl1ski2un5p-
+bigDataUrl JH137_1_S96.filterlength.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+
+track trl1ski2_un_cov_pos 
+longLabel trl1ski2_un_covpos
+shortLabel trl1ski2uncov+
+bigDataUrl JH137_1_S96.filterlength.cov.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1ski2_un_cov_neg
+longLabel trl1ski2_un_cov_neg
+shortLabel trl1ski2uncov-
+bigDataUrl JH137_1_S96.filterlength.cov.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+
+track trl1ski2_Tm_3p_pos 
+longLabel trl1ski2_Tm_3p_pos
+shortLabel trl1ski2Tm3p+
+bigDataUrl JH137_2_S97.filterlength.3pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1ski2_Tm_3p_neg
+longLabel trl1ski2_Tm_3p_neg
+shortLabel trl1ski2Tm3p-
+bigDataUrl JH137_2_S97.filterlength.3pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+
+track trl1ski2_Tm_5p_pos 
+longLabel trl1ski2_Tm_5p_pos
+shortLabel trl1ski2Tm5p+
+bigDataUrl JH137_2_S97.filterlength.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1ski2_Tm_5p_neg
+longLabel trl1ski2_Tm_5p_neg
+shortLabel trl1ski2Tm5p-
+bigDataUrl JH137_2_S97.filterlength.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
+type bigWig
+
+
+track trl1ski2_Tm_cov_pos 
+longLabel trl1ski2_Tm_covpos
+shortLabel trl1ski2Tmcov+
+bigDataUrl JH137_2_S97.filterlength.cov.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group trl1ski2
+type bigWig
+
+track trl1ski2_Tm_cov_neg
+longLabel trl1ski2_Tm_cov_neg
+shortLabel trl1ski2Tmcov-
+bigDataUrl JH137_2_S97.filterlength.cov.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group trl1ski2
 type bigWig
