@@ -336,3 +336,15 @@ maxHeightPixels 30:30:10
 color 55,126,184
 group trl1ski2
 type bigWig
+
+JH139.G8.5pgcov.bw
+
+track 5phoseq_139 
+longLabel 5phoseq_139_5pcov 
+shortLabel 5pseq5pc
+bigDataUrl JH139.G8.5pgcov.bw 
+maxHeightPixels 30:30:10
+color 57,181,74
+group 5phoseq
+type bigWig
+
