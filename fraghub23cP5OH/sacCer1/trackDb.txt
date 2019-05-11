@@ -337,14 +337,38 @@ color 55,126,184
 group trl1ski2
 type bigWig
 
-JH139.G8.5pgcov.bw
-
-track 5phoseq_139 
-longLabel 5phoseq_139_5pcov 
-shortLabel 5pseq5pc
+track 5phoseq_global_5p 
+longLabel 5phoseq_139g_5pcov 
+shortLabel 5pseqG5p
 bigDataUrl JH139.G8.5pgcov.bw 
 maxHeightPixels 30:30:10
 color 57,181,74
 group 5phoseq
 type bigWig
 
+track 5phoseq_loc_cov
+longLabel 5phoseq_139loc_cov 
+shortLabel 5pseqLcov
+bigDataUrl JH139.G8.cov.localalign.bw 
+maxHeightPixels 30:30:10
+color 57,181,74
+group 5phoseq
+type bigWig
+
+track 5phoseq_loc_5p
+longLabel 5phoseq_139loc_5pcov 
+shortLabel 5pseqL5p
+bigDataUrl JH139.G8.5pgcov.localalign.bw 
+maxHeightPixels 30:30:10
+color 57,181,74
+group 5phoseq
+type bigWig
+
+track 5phoseq_loc_3p
+longLabel 5phoseq_139loc_3pcov 
+shortLabel 5pseqL3p
+bigDataUrl JH139.G8.3pgcov.localalign.bw 
+maxHeightPixels 30:30:10
+color 57,181,74
+group 5phoseq
+type bigWig
