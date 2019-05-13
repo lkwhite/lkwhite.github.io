@@ -341,7 +341,7 @@ track 5phoseq_global_5p
 longLabel 5phoseq_139g_5pcov 
 shortLabel 5pseqG5p
 bigDataUrl JH139.G8.5pgcov.bw 
-maxHeightPixels 30:30:10
+maxHeightPixels 150:150:50
 color 57,181,74
 group 5phoseq
 type bigWig
