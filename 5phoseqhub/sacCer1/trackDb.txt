@@ -1,0 +1,71 @@
+track ctrl-- 
+longLabel unind_ctrl_notreat 
+shortLabel ctrl--
+bigDataUrl 1_JH152_S33_L001_R1_001.5pe.neg.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+group 5phoseq
+type bigWig
+
+track ctrl-+ 
+longLabel unind_ctrl_xrn1
+shortLabel ctrl-+
+bigDataUrl 2_JH152_S34_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group 5phoseq
+type bigWig
+
+track ctrl+-
+longLabel Tm_ctrl_notreat
+shortLabel ctrl+-
+bigDataUrl 3_JH152_S35_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group 5phoseq
+type bigWig
+
+track ctrl++
+longLabel Tm_ctrl_xrn1
+shortLabel ctrl++
+bigDataUrl 4_JH152_S36_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group 5phoseq
+type bigWig
+
+track tpt1d--
+longLabel unind_tpt1d_notreat
+shortLabel tpt1d--
+bigDataUrl 5_JH152_S37_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group 5phoseq
+type bigWig
+
+track tpt1d-+
+longLabel unind_tpt1d_xrn1
+shortLabel tpt1d-+
+bigDataUrl 6_JH152_S38_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group 5phoseq
+type bigWig
+
+track tpt1d+-
+longLabel Tm_tpt1d_notreat
+shortLabel tpt1d+-
+bigDataUrl 7_JH152_S39_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group 5phoseq
+type bigWig
+
+track tpt1d++
+longLabel Tm_tpt1d_xrn1
+shortLabel tpt1d++
+bigDataUrl 8_JH152_S40_L001_R1_001.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group 5phoseq 
+type bigWig
