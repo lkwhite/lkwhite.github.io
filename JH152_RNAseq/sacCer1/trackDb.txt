@@ -141,3 +141,148 @@ maxHeightPixels 30:30:10
 color 55,126,184
 group RNAseq 
 type bigWig
+
+
+track ctrl--pos5p
+longLabel unind_ctrl_notreat_pos5p
+shortLabel ctrl--pos5p
+bigDataUrl 9_JH152_S41_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track ctrl-+pos5p
+longLabel unind_ctrl_xrn1_pos5p
+shortLabel ctrl-+pos5p
+bigDataUrl 10_JH152_S42_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq
+type bigWig
+
+track ctrl+-pos5p
+longLabel Tm_ctrl_notreat_pos5p
+shortLabel ctrl+-pos5p
+bigDataUrl 11_JH152_S43_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track ctrl++pos5p
+longLabel Tm_ctrl_xrn1_pos5p
+shortLabel ctrl++pos5p
+bigDataUrl 12_JH152_S44_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq
+type bigWig
+
+track tpt1d--pos5p
+longLabel unind_tpt1d_notreat_pos5p
+shortLabel tpt1d--pos5p
+bigDataUrl 13_JH152_S45_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track tpt1d-+pos5p
+longLabel unind_tpt1d_xrn1_pos5p
+shortLabel tpt1d-+pos5p
+bigDataUrl 14_JH152_S46_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq
+type bigWig
+
+track tpt1d+-pos5p
+longLabel Tm_tpt1d_notreat_pos5p
+shortLabel tpt1d+-pos5p
+bigDataUrl 15_JH152_S47_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track tpt1d++pos5p
+longLabel Tm_tpt1d_xrn1_pos5p
+shortLabel tpt1d++pos5p
+bigDataUrl 16_JH152_S48_L001_R1_001.5p.pos.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq 
+type bigWig
+
+track ctrl--neg5p
+longLabel unind_ctrl_notreat_neg5p 
+shortLabel ctrl--neg5p
+bigDataUrl 9_JH152_S41_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track ctrl-+neg5p
+longLabel unind_ctrl_xrn1_neg5p
+shortLabel ctrl-+neg5p
+bigDataUrl 10_JH152_S42_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq
+type bigWig
+
+track ctrl+-neg5p
+longLabel Tm_ctrl_notreat_neg5p
+shortLabel ctrl+-neg5p
+bigDataUrl 11_JH152_S43_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track ctrl++neg5p
+longLabel Tm_ctrl_xrn1_neg5p
+shortLabel ctrl++neg5p
+bigDataUrl 12_JH152_S44_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq
+type bigWig
+
+track tpt1d--neg5p
+longLabel unind_tpt1d_notreat_neg5p
+shortLabel tpt1d--neg5p
+bigDataUrl 13_JH152_S45_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track tpt1d-+neg5p
+longLabel unind_tpt1d_xrn1_neg5p
+shortLabel tpt1d-+neg5p
+bigDataUrl 14_JH152_S46_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq
+type bigWig
+
+track tpt1d+-neg5p
+longLabel Tm_tpt1d_notreat_neg5p
+shortLabel tpt1d+-neg5p
+bigDataUrl 15_JH152_S47_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+group RNAseq
+type bigWig
+
+track tpt1d++neg5p
+longLabel Tm_tpt1d_xrn1_neg5p
+shortLabel tpt1d++neg5p
+bigDataUrl 16_JH152_S48_L001_R1_001.5p.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+group RNAseq 
+type bigWig
