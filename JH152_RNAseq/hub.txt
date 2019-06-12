@@ -1,0 +1,5 @@
+hub JH152_RNAseq 
+shortLabel 152RNAseq
+longLabel RNAseq to id repaired RNA targets 
+genomesFile genomes.txt
+email laura.white@gmail.com
