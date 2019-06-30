@@ -25,7 +25,6 @@ color 209,229,240
 group RNAseq
 type bigWig
 
-
 track ctrl-+cov
 longLabel CRY1 uninduced +Xrn1 coverage
 shortLabel ctrl-+cov
@@ -52,8 +51,6 @@ maxHeightPixels 30:30:10
 color 146,197,222
 group RNAseq
 type bigWig
-
-
 
 track ctrl+-cov
 longLabel CRY1 +Tm noXrn1 coverage
@@ -82,7 +79,6 @@ color 67,147,195
 group RNAseq
 type bigWig
 
-
 track ctrl++cov
 longLabel CRY1 +Tm +Xrn1 coverage
 shortLabel ctrl++cov
@@ -109,8 +105,6 @@ maxHeightPixels 30:30:10
 color 33,102,172 
 group RNAseq
 type bigWig
-
-
 
 track tpt1d--cov
 longLabel tpt1del uninduced noXrn1 coverage
@@ -139,7 +133,6 @@ color 253,219,199
 group RNAseq
 type bigWig
 
-
 track tpt1d-+cov
 longLabel tpt1del  uninduced +Xrn1 coverage
 shortLabel tpt1d-+cov
@@ -166,8 +159,6 @@ maxHeightPixels 30:30:10
 color 244,165,130
 group RNAseq
 type bigWig
-
-
 
 track tpt1d+-cov
 longLabel tpt1del +Tm noXrn1 coverage
@@ -196,7 +187,6 @@ color 214,96,77
 group RNAseq
 type bigWig
 
-
 track tpt1d++cov
 longLabel tpt1del +Tm +Xrn1 coverage
 shortLabel tpt1d++cov
@@ -223,4 +213,3 @@ maxHeightPixels 30:30:10
 color 178,24,43 
 group RNAseq
 type bigWig
-
