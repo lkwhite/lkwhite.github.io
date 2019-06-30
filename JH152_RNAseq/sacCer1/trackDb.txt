@@ -64,7 +64,7 @@ color 67,147,195
 group RNAseq
 type bigWig
 
-track ctrl--5p
+track ctrl+-5p
 longLabel CRY1 +Tm noXrn1 5primeend
 shortLabel ctrl+-5p
 bigDataUrl 10_JH152_S41_L001_R.5p.bw
@@ -178,7 +178,7 @@ color 214,96,77
 group RNAseq
 type bigWig
 
-track tpt1d--5p
+track tpt1d+-5p
 longLabel tpt1del +Tm noXrn1 5primeend
 shortLabel tpt1d+-5p
 bigDataUrl 12_JH152_S41_L001_R.5p.bw
