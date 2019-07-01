@@ -1,69 +1,142 @@
-track ctrl--5phoseq
-longLabel 5phoseq CRY1 uninduced noXrn1 5primeend 
-shortLabel ctrl--
+
+track ctrl--5phoseqplus
+longLabel 5phoseq CRY1 uninduced noXrn1 5primeend plusstrand 
+shortLabel ctrl--plus
+bigDataUrl 1_JH152_S33_L001_R1_001.5pe.pos.bw 
+maxHeightPixels 30:30:10
+color 199,234,229 
+group 5phoseq
+type bigWig
+
+track ctrl-+5phoseqposplus
+longLabel 5phoseq CRY1 uninduced +Xrn1 5primeend plusstrand
+shortLabel ctrl-+plus
+bigDataUrl 2_JH152_S34_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 128,205,193
+group 5phoseq
+type bigWig
+
+track ctrl+-5phoseqplus
+longLabel 5phoseq CRY1 +Tm noXrn1 5primeend plusstrand
+shortLabel ctrl+-plus
+bigDataUrl 3_JH152_S35_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 53,151,143 
+group 5phoseq
+type bigWig
+
+track ctrl++5phoseqplus
+longLabel 5phoseq CRY1 +Tm +Xrn1 5primeend plusstrand
+shortLabel ctrl++plus
+bigDataUrl 4_JH152_S36_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 1,102,94
+group 5phoseq
+type bigWig
+
+track tpt1d--5phoseqplus
+longLabel 5phoseq tpt1del uninduced noXrn1 5primeend plusstrand 
+shortLabel tpt1d--plus
+bigDataUrl 5_JH152_S37_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 246,232,195
+group 5phoseq
+type bigWig
+
+track tpt1d-+5phoseqplus
+longLabel 5phoseq tpt1del uninduced +Xrn1 5primeend plusstrand
+shortLabel tpt1d-+plus
+bigDataUrl 6_JH152_S38_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 223,194,125
+group 5phoseq
+type bigWig
+
+track tpt1d+-5phoseqplus
+longLabel 5phoseq tpt1del +Tm noXrn1 5primend plusstrand
+shortLabel tpt1d+-plus
+bigDataUrl 7_JH152_S39_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 191,129,45
+group 5phoseq
+type bigWig
+
+track tpt1d++5phoseqplus
+longLabel 5phoseq tpt1del +Tm +Xrn1 5primeend plusstrand
+shortLabel tpt1d++plus
+bigDataUrl 8_JH152_S40_L001_R1_001.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 140,81,10
+group 5phoseq 
+type bigWig
+
+track ctrl--5phoseqminus
+longLabel 5phoseq CRY1 uninduced noXrn1 5primeend minusstrand
+shortLabel ctrl--minus
 bigDataUrl 1_JH152_S33_L001_R1_001.5pe.neg.bw 
 maxHeightPixels 30:30:10
 color 199,234,229 
 group 5phoseq
 type bigWig
 
-track ctrl-+5phoseq
-longLabel 5phoseq CRY1 uninduced +Xrn1 5primeend
-shortLabel ctrl-+
+track ctrl-+5phoseqminus
+longLabel 5phoseq CRY1 uninduced +Xrn1 5primeend minusstrnad
+shortLabel ctrl-+minus
 bigDataUrl 2_JH152_S34_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 128,205,193
 group 5phoseq
 type bigWig
 
-track ctrl+-5phoseq
-longLabel 5phoseq CRY1 +Tm noXrn1 5primeend
-shortLabel ctrl+-
+track ctrl+-5phoseqminus
+longLabel 5phoseq CRY1 +Tm noXrn1 5primeend minusstrand
+shortLabel ctrl+-minus
 bigDataUrl 3_JH152_S35_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 53,151,143 
 group 5phoseq
 type bigWig
 
-track ctrl++5phoseq
-longLabel 5phoseq CRY1 +Tm +Xrn1 5primeend
-shortLabel ctrl++
+track ctrl++5phoseqminus
+longLabel 5phoseq CRY1 +Tm +Xrn1 5primeend minusstrand
+shortLabel ctrl++minus
 bigDataUrl 4_JH152_S36_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 1,102,94
 group 5phoseq
 type bigWig
 
-track tpt1d--5phoseq
-longLabel 5phoseq tpt1del uninduced noXrn1 5primeend 
-shortLabel tpt1d--
+track tpt1d--5phoseqminus
+longLabel 5phoseq tpt1del uninduced noXrn1 5primeend minusstrand
+shortLabel tpt1d--minus
 bigDataUrl 5_JH152_S37_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 246,232,195
 group 5phoseq
 type bigWig
 
-track tpt1d-+5phoseq
-longLabel 5phoseq tpt1del uninduced +Xrn1 5primeend
-shortLabel tpt1d-+
+track tpt1d-+5phoseqminus
+longLabel 5phoseq tpt1del uninduced +Xrn1 5primeend minusstrand
+shortLabel tpt1d-+minus
 bigDataUrl 6_JH152_S38_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 223,194,125
 group 5phoseq
 type bigWig
 
-track tpt1d+-5phoseq
-longLabel 5phoseq tpt1del +Tm noXrn1 5primend
-shortLabel tpt1d+-
+track tpt1d+-5phoseqminus
+longLabel 5phoseq tpt1del +Tm noXrn1 5primend minusstrand
+shortLabel tpt1d+-minus
 bigDataUrl 7_JH152_S39_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 191,129,45
 group 5phoseq
 type bigWig
 
-track tpt1d++5phoseq
-longLabel 5phoseq tpt1del +Tm +Xrn1 5primeend
-shortLabel tpt1d++
+track tpt1d++5phoseqminus
+longLabel 5phoseq tpt1del +Tm +Xrn1 5primeend minusstrand
+shortLabel tpt1d++minus
 bigDataUrl 8_JH152_S40_L001_R1_001.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 140,81,10
