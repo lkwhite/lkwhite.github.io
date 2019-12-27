@@ -77,7 +77,7 @@ visibility dense
     shortLabel tpt1M5p
     visibility full
     subGroups strain=MT fraction=M
-    bigDataUrl JH176_3_S44_L002_R.SE.5p.bw
+    bigDataUrl JH176_3_S45_L002_R.SE.5p.bw
     maxHeightPixels 30:30:10
     color 161,217,155
     group RNAseq
