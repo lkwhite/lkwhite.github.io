@@ -1,0 +1,5 @@
+hub JH176_RNAseq 
+shortLabel 176RNAseq
+longLabel RNAseq of polysome vs monosome fracs 
+genomesFile genomes.txt
+email laura.white@gmail.com
