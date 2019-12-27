@@ -1,0 +1,158 @@
+track 176mRNA
+compositeTrack on
+shortLabel 176mRNA
+longLabel RNAseq JH176 monosome vs polysome fractions
+subGroup1 strain Strain WT=WT MUT=trl1/tpt1
+subGroup2 fraction Fraction M=Monosome P=Polysome
+dimensions dimX=strain dimY=fraction
+sortOrder strain=- fraction=+
+maxHeightPixels 32:64:11
+autoScale on
+type bigWig
+visibility dense
+
+    track CRY1-M
+    parent 176mRNA
+    longLabel CRY1 monosome coverage
+    shortLabel CRY1Mcov
+    visibility full
+    subGroups strain=WT fraction=M
+    bigDataUrl JH176_1_S43_L002_R.SE.cov.bw 
+    maxHeightPixels 30:30:10
+    color 189,189,189 
+    group RNAseq
+    type bigWig
+
+    track CRY1M5p
+    parent 176mRNA
+    longLabel CRY1 monosome 5primeend
+    shortLabel CRY1M5p
+    visibility full
+    subGroups strain=WT fraction=M
+    bigDataUrl JH176_1_S43_L002_R.SE.5p.bw
+    maxHeightPixels 30:30:10
+    color 189,189,189 
+    group RNAseq
+    type bigWig
+
+    track trl1-M
+    parent 176mRNA
+    longLabel trl1 monosome coverage
+    shortLabel trl1Mcov
+    visibility full
+    subGroups strain=MT fraction=M
+    bigDataUrl JH176_2_S44_L002_R.SE.cov.bw 
+    maxHeightPixels 30:30:10
+    color 158,202,225 
+    group RNAseq
+    type bigWig
+
+    track trl1M5p
+    parent 176mRNA
+    longLabel trl11 monosome 5primeend
+    shortLabel trl1M5p
+    visibility full
+    subGroups strain=MT fraction=M
+    bigDataUrl JH176_2_S44_L002_R.SE.5p.bw
+    maxHeightPixels 30:30:10
+    color 158,202,225 
+    group RNAseq
+    type bigWig
+
+    track tpt11-M
+    parent 176mRNA
+    longLabel tpt1 monosome coverage
+    shortLabel tpt1Mcov
+    visibility full
+    subGroups strain=MT fraction=M
+    bigDataUrl JH176_3_S45_L002_R.SE.cov.bw 
+    maxHeightPixels 30:30:10
+    color 161,217,155
+    group RNAseq
+    type bigWig
+
+    track tpt1M5p
+    parent 176mRNA
+    longLabel tpt1 monosome 5primeend
+    shortLabel tpt1M5p
+    visibility full
+    subGroups strain=MT fraction=M
+    bigDataUrl JH176_3_S44_L002_R.SE.5p.bw
+    maxHeightPixels 30:30:10
+    color 161,217,155
+    group RNAseq
+    type bigWig
+
+    track CRY1-P
+    parent 176mRNA
+    longLabel CRY1 polysome coverage
+    shortLabel CRY1Pcov
+    visibility full
+    subGroups strain=WT fraction=P
+    bigDataUrl JH176_4_S46_L002_R.SE.cov.bw 
+    maxHeightPixels 30:30:10
+    color 99,99,99
+    group RNAseq
+    type bigWig
+
+    track CRY1P5p
+    parent 176mRNA
+    longLabel CRY1 polysome 5primeend
+    shortLabel CRY1P5p
+    visibility full
+    subGroups strain=WT fraction=P
+    bigDataUrl JH176_4_S46_L002_R.SE.5p.bw
+    maxHeightPixels 30:30:10
+    color 99,99,99 
+    group RNAseq
+    type bigWig
+
+    track trl1-P
+    parent 176mRNA
+    longLabel trl1 polysome coverage
+    shortLabel trl1Pcov
+    visibility full
+    subGroups strain=MT fraction=P
+    bigDataUrl JH176_5_S47_L002_R.SE.cov.bw 
+    maxHeightPixels 30:30:10
+    color 49,130,189
+    group RNAseq
+    type bigWig
+
+    track trl1P5p
+    parent 176mRNA
+    longLabel trl1 polysome 5primeend
+    shortLabel trl1P5p
+    visibility full
+    subGroups strain=MT fraction=P
+    bigDataUrl JH176_5_S47_L002_R.SE.5p.bw
+    maxHeightPixels 30:30:10
+    color 49,130,189 
+    group RNAseq
+    type bigWig
+
+
+    track tpt1-P
+    parent 176mRNA
+    longLabel tpt1 polysome coverage
+    shortLabel tpt1Pcov
+    visibility full
+    subGroups strain=MT fraction=P
+    bigDataUrl JH176_6_S48_L002_R.SE.cov.bw 
+    maxHeightPixels 30:30:10
+    color 49,163,84
+    group RNAseq
+    type bigWig
+
+    track tpt1P5p
+    parent 176mRNA
+    longLabel tpt1 polysome 5primeend
+    shortLabel tpt1P5p
+    visibility full
+    subGroups strain=MT fraction=P
+    bigDataUrl JH176_6_S48_L002_R.SE.5p.bw
+    maxHeightPixels 30:30:10
+    color 49,163,84 
+    group RNAseq
+    type bigWig
+
