@@ -19,7 +19,7 @@ type bigWig
 track untr-3p+
 longLabel uninduced 3primeend plusstrand 
 shortLabel un3p+
-bigDataUrl G1_S45_L002_R1_001.3pe.neg.bw 
+bigDataUrl G1_S45_L002_R1_001.3pe.pos.bw 
 maxHeightPixels 30:30:10
 color 35,70,90 
 group 5phoseq
