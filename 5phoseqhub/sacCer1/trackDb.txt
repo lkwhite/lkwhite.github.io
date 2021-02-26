@@ -1,4 +1,4 @@
-track pilot untr tpt1 J1 -s
+track pilot_untr_tpt1_J1-s
 longLabel JH201 untreated tpt1d J1 minusstrand
 shortLabel untr Tpt1 J1 - 0
 bigDataUrl G1_S45_L002_R1_001.5pe.neg.bw
@@ -7,7 +7,7 @@ color 215,25,28
 group untreated
 type bigWig
 
-track pilot untr tpt1 J1 +s
+track pilot_untr_tpt1_J1+s
 longLabel JH201 untreated tpt1d J1 plusstrand
 shortLabel untr Tpt1 J1 + 0
 bigDataUrl G1_S45_L002_R1_001.5pe.pos.bw
@@ -16,7 +16,7 @@ color 215,25,28
 group untreated
 type bigWig
 
-track pilot Tm tpt1 J1 -s
+track pilot_Tm_tpt1_J1-s
 longLabel JH201 Tm tpt1d J1 minusstrand
 shortLabel Tm Tpt1 J1 - 0
 bigDataUrl G2_S46_L002_R1_001.5pe.neg.bw
@@ -25,7 +25,7 @@ color 215,25,28
 group Tm
 type bigWig
 
-track pilot Tm tpt1 J1 +s
+track pilot_Tm_tpt1_J1_+s
 longLabel JH201 Tm tpt1d J1 plusstrand
 shortLabel Tm Tpt1 J1 + 0
 bigDataUrl G2_S46_L002_R1_001.5pe.pos.bw
