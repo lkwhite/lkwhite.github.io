@@ -1,5 +1,5 @@
 hub 5phoseq 
 shortLabel 5phoseq
-longLabel 5p-ligation to id repaired RNA targets 
+longLabel J1 degradation and 5p lig to id repaired RNA targets 
 genomesFile genomes.txt
 email laura.white@gmail.com
