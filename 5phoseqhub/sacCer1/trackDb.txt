@@ -55,7 +55,7 @@ type bigWig
 track untr_wt_noexo_-s_2
 longLabel untreated wt noexo minusstrand rep2
 shortLabel untr WT noX - 2
-bigDataUrl A2_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A2_S2_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group untreated
@@ -64,7 +64,7 @@ type bigWig
 track untr_wt_noexo_+s_2
 longLabel untreated wt noexo plusstrand rep2
 shortLabel untr WT noX + 2
-bigDataUrl A2_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A2_S2_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group untreated
@@ -73,7 +73,7 @@ type bigWig
 track untr_wt_noexo_-s_3
 longLabel untreated wt noexo minusstrand rep3
 shortLabel untr WT noX - 3
-bigDataUrl A3_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A3_S3_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group untreated
@@ -82,7 +82,7 @@ type bigWig
 track untr_wt_noexo_+s_3
 longLabel untreated wt noexo plusstrand rep3
 shortLabel untr WT noX + 3
-bigDataUrl A3_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A3_S3_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group untreated
@@ -91,7 +91,7 @@ type bigWig
 track Tm_wt_noexo_-s_1
 longLabel Tm wt noexo minusstrand rep1
 shortLabel Tm WT noX - 1
-bigDataUrl A4_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A4_S4_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
@@ -100,7 +100,7 @@ type bigWig
 track Tm_wt_noexo_+s_1
 longLabel Tm wt noexo plusstrand rep1
 shortLabel Tm WT noX + 1
-bigDataUrl A4_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A4_S4_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
@@ -109,7 +109,7 @@ type bigWig
 track Tm_wt_noexo_-s_2
 longLabel Tm wt noexo minusstrand rep2
 shortLabel Tm WT noX - 2
-bigDataUrl A5_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A5_S5_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
@@ -118,7 +118,7 @@ type bigWig
 track Tm_wt_noexo_+s_2
 longLabel Tm wt noexo plusstrand rep2
 shortLabel Tm WT noX + 2
-bigDataUrl A5_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A5_S5_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
@@ -127,7 +127,7 @@ type bigWig
 track Tm_wt_noexo_-s_3
 longLabel Tm wt noexo minusstrand rep3
 shortLabel Tm WT noX - 3
-bigDataUrl A6_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A6_S6_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
@@ -136,7 +136,7 @@ type bigWig
 track Tm_wt_noexo_+s_3
 longLabel Tm wt noexo plusstrand rep3
 shortLabel Tm WT noX + 3
-bigDataUrl A6_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A6_S6_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
@@ -145,7 +145,7 @@ type bigWig
 track CHX_wt_noexo_-s_1
 longLabel CHX wt noexo minusstrand rep1
 shortLabel CHX WT noX - 1
-bigDataUrl A7_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A7_S7_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group CHX
@@ -154,7 +154,7 @@ type bigWig
 track CHX_wt_noexo_+s_1
 longLabel CHX wt noexo plusstrand rep1
 shortLabel CHX WT noX + 1
-bigDataUrl A7_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A7_S7_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group CHX
@@ -163,7 +163,7 @@ type bigWig
 track CHX_wt_noexo_-s_2
 longLabel CHX wt noexo minusstrand rep2
 shortLabel CHX WT noX - 2
-bigDataUrl A8_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A8_S8_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group CHX
@@ -172,7 +172,7 @@ type bigWig
 track CHX_wt_noexo_+s_2
 longLabel CHX wt noexo plusstrand rep2
 shortLabel CHX WT noX + 2
-bigDataUrl A8_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A8_S8_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group CHX
@@ -181,7 +181,7 @@ type bigWig
 track CHX_wt_noexo_-s_3
 longLabel CHX wt noexo minusstrand rep3
 shortLabel CHX WT noX - 3
-bigDataUrl A9_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A9_S9_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group CHX
@@ -190,7 +190,7 @@ type bigWig
 track CHX_wt_noexo_+s_3
 longLabel CHX wt noexo plusstrand rep3
 shortLabel CHX WT noX + 3
-bigDataUrl A9_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A9_S9_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group CHX
@@ -199,7 +199,7 @@ type bigWig
 track 37C_wt_noexo_-s_1
 longLabel 37C wt noexo minusstrand rep1
 shortLabel 37C WT noX - 1
-bigDataUrl A10_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A10_S10_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group 37C
@@ -208,7 +208,7 @@ type bigWig
 track 37C_wt_noexo_+s_1
 longLabel 37C wt noexo plusstrand rep1
 shortLabel 37C WT noX + 1
-bigDataUrl A10_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A10_S10_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group 37C
@@ -217,7 +217,7 @@ type bigWig
 track 37C_wt_noexo_-s_2
 longLabel 37C wt noexo minusstrand rep2
 shortLabel 37C WT noX - 2
-bigDataUrl A11_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A11_S11_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group 37C
@@ -226,7 +226,7 @@ type bigWig
 track 37C_wt_noexo_+s_2
 longLabel 37C wt noexo plusstrand rep2
 shortLabel 37C WT noX + 2
-bigDataUrl A11_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A11_S11_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group 37C
@@ -235,7 +235,7 @@ type bigWig
 track 37C_wt_noexo_-s_3
 longLabel 37C wt noexo minusstrand rep3
 shortLabel 37C WT noX - 3
-bigDataUrl A12_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A12_S12_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group 37C
@@ -244,7 +244,7 @@ type bigWig
 track 37C_wt_noexo_+s_3
 longLabel 37C wt noexo plusstrand rep3
 shortLabel 37C WT noX + 3
-bigDataUrl A12_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A12_S12_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 171,217,233
 group 37C
@@ -253,7 +253,7 @@ type bigWig
 track untr_tpt1d_noexo_-s_1
 longLabel untreated tpt1d noexo minusstrand rep1
 shortLabel untr Tpt1 noX - 1
-bigDataUrl A13_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A13_S13_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
@@ -262,7 +262,7 @@ type bigWig
 track untr_tpt1d_noexo_+s_1
 longLabel untreated tpt1d noexo plusstrand rep1
 shortLabel untr Tpt1 noX + 1
-bigDataUrl A13_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A13_S13_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
@@ -271,7 +271,7 @@ type bigWig
 track untr_tpt1d_noexo_-s_2
 longLabel untreated tpt1d noexo minusstrand rep2
 shortLabel untr Tpt1 noX - 2
-bigDataUrl A14_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A14_S14_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
@@ -280,7 +280,7 @@ type bigWig
 track untr_tpt1d_noexo_+s_2
 longLabel untreated tpt1d noexo plusstrand rep2
 shortLabel untr Tpt1 noX + 2
-bigDataUrl A14_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A14_S14_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
@@ -289,7 +289,7 @@ type bigWig
 track untr_tpt1d_noexo_-s_3
 longLabel untreated tpt1d noexo minusstrand rep3
 shortLabel untr Tpt1 noX - 3
-bigDataUrl A15_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A15_S15_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
@@ -298,7 +298,7 @@ type bigWig
 track untr_tpt1d_noexo_+s_3
 longLabel untreated tpt1d noexo plusstrand rep3
 shortLabel untr Tpt1 noX + 3
-bigDataUrl A15_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A15_S15_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
@@ -307,7 +307,7 @@ type bigWig
 track Tm_tpt1d_noexo_-s_1
 longLabel Tm tpt1d noexo minusstrand rep1
 shortLabel Tm Tpt1 noX - 1
-bigDataUrl A16_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl A16_S16_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
@@ -316,7 +316,7 @@ type bigWig
 track Tm_tpt1d_noexo_+s_1
 longLabel Tm tpt1d noexo plusstrand rep1
 shortLabel Tm Tpt1 noX + 1
-bigDataUrl A16_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl A16_S16_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
@@ -325,7 +325,7 @@ type bigWig
 track Tm_tpt1d_noexo_-s_2
 longLabel Tm tpt1d noexo minusstrand rep2
 shortLabel Tm Tpt1 noX - 2
-bigDataUrl B1_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B1_S17_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
@@ -334,7 +334,7 @@ type bigWig
 track Tm_tpt1d_noexo_+s_2
 longLabel Tm tpt1d noexo plusstrand rep2
 shortLabel Tm Tpt1 noX + 2
-bigDataUrl B1_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B1_S17_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
@@ -343,7 +343,7 @@ type bigWig
 track Tm_tpt1d_noexo_-s_3
 longLabel Tm tpt1d noexo minusstrand rep3
 shortLabel Tm Tpt1 noX - 3
-bigDataUrl B2_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B2_S18_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
@@ -352,7 +352,7 @@ type bigWig
 track Tm_tpt1d_noexo_+s_3
 longLabel Tm tpt1d noexo plusstrand rep3
 shortLabel Tm Tpt1 noX + 3
-bigDataUrl B2_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B2_S18_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
@@ -361,7 +361,7 @@ type bigWig
 track CHX_tpt1d_noexo_-s_1
 longLabel CHX tpt1d noexo minusstrand rep1
 shortLabel CHX Tpt1 noX - 1
-bigDataUrl B3_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B3_S19_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group CHX
@@ -370,7 +370,7 @@ type bigWig
 track CHX_tpt1d_noexo_+s_1
 longLabel CHX tpt1d noexo plusstrand rep1
 shortLabel CHX Tpt1 noX + 1
-bigDataUrl B3_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B3_S19_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group CHX
@@ -379,7 +379,7 @@ type bigWig
 track CHX_tpt1d_noexo_-s_2
 longLabel CHX tpt1d noexo minusstrand rep2
 shortLabel CHX Tpt1 noX - 2
-bigDataUrl B4_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B4_S20_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group CHX
@@ -388,7 +388,7 @@ type bigWig
 track CHX_tpt1d_noexo_+s_2
 longLabel CHX tpt1d noexo plusstrand rep2
 shortLabel CHX Tpt1 noX + 2
-bigDataUrl B4_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B4_S20_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group CHX
@@ -397,7 +397,7 @@ type bigWig
 track CHX_tpt1d_noexo_-s_3
 longLabel CHX tpt1d noexo minusstrand rep3
 shortLabel CHX Tpt1 noX - 3
-bigDataUrl B5_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B5_S21_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group CHX
@@ -406,7 +406,7 @@ type bigWig
 track CHX_tpt1d_noexo_+s_3
 longLabel CHX tpt1d noexo plusstrand rep3
 shortLabel CHX Tpt1 noX + 3
-bigDataUrl B5_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B5_S21_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group CHX
@@ -415,7 +415,7 @@ type bigWig
 track 37C_tpt1d_noexo_-s_1
 longLabel 37C tpt1d noexo minusstrand rep1
 shortLabel 37C Tpt1 noX - 1
-bigDataUrl B6_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B6_S22_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group 37C
@@ -424,7 +424,7 @@ type bigWig
 track 37C_tpt1d_noexo_+s_1
 longLabel 37C tpt1d noexo plusstrand rep1
 shortLabel 37C Tpt1 noX + 1
-bigDataUrl B6_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B6_S22_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group 37C
@@ -433,7 +433,7 @@ type bigWig
 track 37C_tpt1d_noexo_-s_2
 longLabel 37C tpt1d noexo minusstrand rep2
 shortLabel 37C Tpt1 noX - 2
-bigDataUrl B7_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B7_S23_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group 37C
@@ -442,7 +442,7 @@ type bigWig
 track 37C_tpt1d_noexo_+s_2
 longLabel 37C tpt1d noexo plusstrand rep2
 shortLabel 37C Tpt1 noX + 2
-bigDataUrl B7_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B7_S23_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group 37C
@@ -451,7 +451,7 @@ type bigWig
 track 37C_tpt1d_noexo_-s_3
 longLabel 37C tpt1d noexo minusstrand rep3
 shortLabel 37C Tpt1 noX - 3
-bigDataUrl B8_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B8_S24_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group 37C
@@ -460,7 +460,7 @@ type bigWig
 track 37C_tpt1d_noexo_+s_3
 longLabel 37C tpt1d noexo plusstrand rep3
 shortLabel 37C Tpt1 noX + 3
-bigDataUrl B8_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B8_S24_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 253,174,97
 group 37C
@@ -469,7 +469,7 @@ type bigWig
 track untr_wt_J1_-s_1
 longLabel untreated wt J1 minusstrand rep1
 shortLabel untr WT J1 - 1
-bigDataUrl B9_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B9_S25_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
@@ -478,7 +478,7 @@ type bigWig
 track untr_wt_J1_+s_1
 longLabel untreated wt J1 plusstrand rep1
 shortLabel untr WT J1 + 1
-bigDataUrl B9_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B9_S25_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
@@ -487,7 +487,7 @@ type bigWig
 track untr_wt_J1_-s_2
 longLabel untreated wt J1 minusstrand rep2
 shortLabel untr WT J1 - 2
-bigDataUrl B10_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B10_S26_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
@@ -496,7 +496,7 @@ type bigWig
 track untr_wt_J1_+s_2
 longLabel untreated wt J1 plusstrand rep2
 shortLabel untr WT J1 + 2
-bigDataUrl B10_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B10_S26_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
@@ -505,7 +505,7 @@ type bigWig
 track untr_wt_J1_-s_3
 longLabel untreated wt J1 minusstrand rep3
 shortLabel untr WT J1 - 3
-bigDataUrl B11_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B11_S27_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
@@ -514,7 +514,7 @@ type bigWig
 track untr_wt_J1_+s_3
 longLabel untreated wt J1 plusstrand rep3
 shortLabel untr WT J1 + 3
-bigDataUrl B11_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B11_S27_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
@@ -523,7 +523,7 @@ type bigWig
 track Tm_wt_J1_-s_1
 longLabel Tm wt J1 minusstrand rep1
 shortLabel Tm WT J1 - 1
-bigDataUrl B12_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B12_S28_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
@@ -532,7 +532,7 @@ type bigWig
 track Tm_wt_J1_+s_1
 longLabel Tm wt J1 plusstrand rep1
 shortLabel Tm WT J1 + 1
-bigDataUrl B12_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B12_S28_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
@@ -541,7 +541,7 @@ type bigWig
 track Tm_wt_J1_-s_2
 longLabel Tm wt J1 minusstrand rep2
 shortLabel Tm WT J1 - 2
-bigDataUrl B13_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B13_S29_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
@@ -550,7 +550,7 @@ type bigWig
 track Tm_wt_J1_+s_2
 longLabel Tm wt J1 plusstrand rep2
 shortLabel Tm WT J1 + 2
-bigDataUrl B13_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B13_S29_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
@@ -559,7 +559,7 @@ type bigWig
 track Tm_wt_J1_-s_3
 longLabel Tm wt J1 minusstrand rep3
 shortLabel Tm WT J1 - 3
-bigDataUrl B14_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B14_S30_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
@@ -568,7 +568,7 @@ type bigWig
 track Tm_wt_J1_+s_3
 longLabel Tm wt J1 plusstrand rep3
 shortLabel Tm WT J1 + 3
-bigDataUrl B14_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B14_S30_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
@@ -577,7 +577,7 @@ type bigWig
 track CHX_wt_J1_-s_1
 longLabel CHX wt J1 minusstrand rep1
 shortLabel CHX WT J1 - 1
-bigDataUrl B15_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B15_S31_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group CHX
@@ -586,7 +586,7 @@ type bigWig
 track CHX_wt_J1_+s_1
 longLabel CHX wt J1 plusstrand rep1
 shortLabel CHX WT J1 + 1
-bigDataUrl B15_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B15_S31_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group CHX
@@ -595,7 +595,7 @@ type bigWig
 track CHX_wt_J1_-s_2
 longLabel CHX wt J1 minusstrand rep2
 shortLabel CHX WT J1 - 2
-bigDataUrl B16_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl B16_S32_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group CHX
@@ -604,7 +604,7 @@ type bigWig
 track CHX_wt_J1_+s_2
 longLabel CHX wt J1 plusstrand rep2
 shortLabel CHX WT J1 + 2
-bigDataUrl B16_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl B16_S32_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group CHX
@@ -613,7 +613,7 @@ type bigWig
 track CHX_wt_J1_-s_3
 longLabel CHX wt J1 minusstrand rep3
 shortLabel CHX WT J1 - 3
-bigDataUrl C1_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C1_S33_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group CHX
@@ -622,7 +622,7 @@ type bigWig
 track CHX_wt_J1_+s_3
 longLabel CHX wt J1 plusstrand rep3
 shortLabel CHX WT J1 + 3
-bigDataUrl C1_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C1_S33_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group CHX
@@ -631,7 +631,7 @@ type bigWig
 track 37C_wt_J1_-s_1
 longLabel 37C wt J1 minusstrand rep1
 shortLabel 37C WT J1 - 1
-bigDataUrl C2_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C2_S34_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group 37C
@@ -640,7 +640,7 @@ type bigWig
 track 37C_wt_J1_+s_1
 longLabel 37C wt J1 plusstrand rep1
 shortLabel 37C WT J1 + 1
-bigDataUrl C2_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C2_S34_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group 37C
@@ -649,7 +649,7 @@ type bigWig
 track 37C_wt_J1_-s_2
 longLabel 37C wt J1 minusstrand rep2
 shortLabel 37C WT J1 - 2
-bigDataUrl C3_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C3_S35_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group 37C
@@ -658,7 +658,7 @@ type bigWig
 track 37C_wt_J1_+s_2
 longLabel 37C wt J1 plusstrand rep2
 shortLabel 37C WT J1 + 2
-bigDataUrl C3_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C3_S35_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group 37C
@@ -667,7 +667,7 @@ type bigWig
 track 37C_wt_J1_-s_3
 longLabel 37C wt J1 minusstrand rep3
 shortLabel 37C WT J1 - 3
-bigDataUrl C4_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C4_S36_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group 37C
@@ -676,7 +676,7 @@ type bigWig
 track 37C_wt_J1_+s_3
 longLabel 37C wt J1 plusstrand rep3
 shortLabel 37C WT J1 + 3
-bigDataUrl C4_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C4_S36_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 44,123,182
 group 37C
@@ -685,7 +685,7 @@ type bigWig
 track untr_tpt1d_J1_-s_1
 longLabel untreated tpt1d J1 minusstrand rep1
 shortLabel untr Tpt1 J1 - 1
-bigDataUrl C5_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C5_S37_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
@@ -694,7 +694,7 @@ type bigWig
 track untr_tpt1d_J1_+s_1
 longLabel untreated tpt1d J1 plusstrand rep1
 shortLabel untr Tpt1 J1 + 1
-bigDataUrl C5_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C5_S37_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
@@ -703,7 +703,7 @@ type bigWig
 track untr_tpt1d_J1_-s_2
 longLabel untreated tpt1d J1 minusstrand rep2
 shortLabel untr Tpt1 J1 - 2
-bigDataUrl C6_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C6_S38_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
@@ -712,7 +712,7 @@ type bigWig
 track untr_tpt1d_J1_+s_2
 longLabel untreated tpt1d J1 plusstrand rep2
 shortLabel untr Tpt1 J1 + 2
-bigDataUrl C6_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C6_S38_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
@@ -721,7 +721,7 @@ type bigWig
 track untr_tpt1d_J1_-s_3
 longLabel untreated tpt1d J1 minusstrand rep3
 shortLabel untr Tpt1 J1 - 3
-bigDataUrl C7_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C7_S39_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
@@ -730,7 +730,7 @@ type bigWig
 track untr_tpt1d_J1_+s_3
 longLabel untreated tpt1d J1 plusstrand rep3
 shortLabel untr Tpt1 J1 + 3
-bigDataUrl C7_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C7_S39_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
@@ -739,7 +739,7 @@ type bigWig
 track Tm_tpt1d_J1_-s_1
 longLabel Tm tpt1d J1 minusstrand rep1
 shortLabel Tm Tpt1 J1 - 1
-bigDataUrl C8_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C8_S40_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
@@ -748,7 +748,7 @@ type bigWig
 track Tm_tpt1d_J1_+s_1
 longLabel Tm tpt1d J1 plusstrand rep1
 shortLabel Tm Tpt1 J1 + 1
-bigDataUrl C8_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C8_S40_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
@@ -757,7 +757,7 @@ type bigWig
 track Tm_tpt1d_J1_-s_2
 longLabel Tm tpt1d J1 minusstrand rep2
 shortLabel Tm Tpt1 J1 - 2
-bigDataUrl C9_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C9_S41_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
@@ -766,7 +766,7 @@ type bigWig
 track Tm_tpt1d_J1_+s_2
 longLabel Tm tpt1d J1 plusstrand rep2
 shortLabel Tm Tpt1 J1 + 2
-bigDataUrl C9_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C9_S41_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
@@ -775,7 +775,7 @@ type bigWig
 track Tm_tpt1d_J1_-s_3
 longLabel Tm tpt1d J1 minusstrand rep3
 shortLabel Tm Tpt1 J1 - 3
-bigDataUrl C10_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C10_S42_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
@@ -784,7 +784,7 @@ type bigWig
 track Tm_tpt1d_J1_+s_3
 longLabel Tm tpt1d J1 plusstrand rep3
 shortLabel Tm Tpt1 J1 + 3
-bigDataUrl C10_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C10_S42_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
@@ -793,7 +793,7 @@ type bigWig
 track CHX_tpt1d_J1_-s_1
 longLabel CHX tpt1d J1 minusstrand rep1
 shortLabel CHX Tpt1 J1 - 1
-bigDataUrl C11_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C11_S43_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group CHX
@@ -802,7 +802,7 @@ type bigWig
 track CHX_tpt1d_J1_+s_1
 longLabel CHX tpt1d J1 plusstrand rep1
 shortLabel CHX Tpt1 J1 + 1
-bigDataUrl C11_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C11_S43_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group CHX
@@ -811,7 +811,7 @@ type bigWig
 track CHX_tpt1d_J1_-s_2
 longLabel CHX tpt1d J1 minusstrand rep2
 shortLabel CHX Tpt1 J1 - 2
-bigDataUrl C12_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C12_S44_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group CHX
@@ -820,7 +820,7 @@ type bigWig
 track CHX_tpt1d_J1_+s_2
 longLabel CHX tpt1d J1 plusstrand rep2
 shortLabel CHX Tpt1 J1 + 2
-bigDataUrl C12_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C12_S44_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group CHX
@@ -829,7 +829,7 @@ type bigWig
 track CHX_tpt1d_J1_-s_3
 longLabel CHX tpt1d J1 minusstrand rep3
 shortLabel CHX Tpt1 J1 - 3
-bigDataUrl C13_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C13_S45_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group CHX
@@ -838,7 +838,7 @@ type bigWig
 track CHX_tpt1d_J1_+s_3
 longLabel CHX tpt1d J1 plusstrand rep3
 shortLabel CHX Tpt1 J1 + 3
-bigDataUrl C13_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C13_S45_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group CHX
@@ -847,7 +847,7 @@ type bigWig
 track 37C_tpt1d_J1_-s_1
 longLabel 37C tpt1d J1 minusstrand rep1
 shortLabel 37C Tpt1 J1 - 1
-bigDataUrl C14_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C14_S46_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group 37C
@@ -856,7 +856,7 @@ type bigWig
 track 37C_tpt1d_J1_+s_1
 longLabel 37C tpt1d J1 plusstrand rep1
 shortLabel 37C Tpt1 J1 + 1
-bigDataUrl C14_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C14_S46_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group 37C
@@ -865,7 +865,7 @@ type bigWig
 track 37C_tpt1d_J1_-s_2
 longLabel 37C tpt1d J1 minusstrand rep2
 shortLabel 37C Tpt1 J1 - 2
-bigDataUrl C15_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C15_S47_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group 37C
@@ -874,7 +874,7 @@ type bigWig
 track 37C_tpt1d_J1_+s_2
 longLabel 37C tpt1d J1 plusstrand rep2
 shortLabel 37C Tpt1 J1 + 2
-bigDataUrl C15_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C15_S47_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group 37C
@@ -883,7 +883,7 @@ type bigWig
 track 37C_tpt1d_J1_-s_3
 longLabel 37C tpt1d J1 minusstrand rep3
 shortLabel 37C Tpt1 J1 - 3
-bigDataUrl C16_S1_L004_R1_001.5pe.neg.bw
+bigDataUrl C16_S48_L004_R1_001.5pe.neg.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group 37C
@@ -892,7 +892,7 @@ type bigWig
 track 37C_tpt1d_J1_+s_3
 longLabel 37C tpt1d J1 plusstrand rep3
 shortLabel 37C Tpt1 J1 + 3
-bigDataUrl C16_S1_L004_R1_001.5pe.pos.bw
+bigDataUrl C16_S48_L004_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group 37C
