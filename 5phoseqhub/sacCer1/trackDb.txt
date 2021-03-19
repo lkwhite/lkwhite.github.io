@@ -2,7 +2,6 @@ track pilot_untr_tpt1_J1-s
 longLabel JH201 untreated tpt1d J1 minusstrand
 shortLabel untr Tpt1 J1 - 0
 bigDataUrl G1_S45_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
 type bigWig
@@ -11,7 +10,6 @@ track pilot_untr_tpt1_J1+s
 longLabel JH201 untreated tpt1d J1 plusstrand
 shortLabel untr Tpt1 J1 + 0
 bigDataUrl G1_S45_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
 type bigWig
@@ -20,7 +18,6 @@ track pilot_Tm_tpt1_J1-s
 longLabel JH201 Tm tpt1d J1 minusstrand
 shortLabel Tm Tpt1 J1 - 0
 bigDataUrl G2_S46_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
 type bigWig
@@ -29,7 +26,6 @@ track pilot_Tm_tpt1_J1_+s
 longLabel JH201 Tm tpt1d J1 plusstrand
 shortLabel Tm Tpt1 J1 + 0
 bigDataUrl G2_S46_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
 type bigWig
@@ -38,7 +34,6 @@ track r1_untr_ctrl_noX-s
 longLabel JH208 untreated ctrl noExo minusstrand rep1
 shortLabel untr ctrl noX - r1
 bigDataUrl JH208_1_S1_L002_R1_001_5pe.neg.bw
-maxHeightPixels 100:30:10
 color 171,217,233
 group untreated
 type bigWig
@@ -47,7 +42,6 @@ track r1_untr_ctrl_noX+s
 longLabel JH208 untreated ctrl noExo plusstrand rep1
 shortLabel untr ctrl noX + r1
 bigDataUrl JH208_1_S1_L002_R1_001_5pe.pos.bw
-maxHeightPixels 100:30:10
 color 100:30:10
 group untreated
 type bigWig
@@ -56,7 +50,6 @@ track r1_untr_ctrl_J1-s
 longLabel JH208 untreated ctrl J1 minusstrand rep1
 shortLabel untr ctrl J1 - r1
 bigDataUrl JH208_2_S2_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
 type bigWig
@@ -65,7 +58,6 @@ track r1_untr_ctrl_J1+s
 longLabel JH208 untreated ctrl J1 plusstrand rep1
 shortLabel untr ctrl J1 + 
 bigDataUrl JH208_2_S2_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 44,123,182
 group untreated
 type bigWig
@@ -74,7 +66,6 @@ track r1_Tm_ctrl_noX-s
 longLabel JH208 Tm ctrl noExo minusstrand rep1
 shortLabel Tm ctrl noX - r1
 bigDataUrl JH208_3_S3_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
 type bigWig
@@ -83,7 +74,6 @@ track r1_Tm_ctrl_noX+s
 longLabel JH208 Tm ctrl noExo plusstrand rep1
 shortLabel Tm ctrl noX + r1
 bigDataUrl JH208_3_S3_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 171,217,233
 group Tm
 type bigWig
@@ -92,7 +82,6 @@ track r1_Tm_ctrl_J1-s
 longLabel JH208 Tm ctrl J1 minusstrand rep1
 shortLabel Tm ctrl J1 - r1
 bigDataUrl JH208_4_S4_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
 type bigWig
@@ -101,7 +90,6 @@ track r1_Tm_ctrl_J1+s
 longLabel JH208 Tm ctrl J1 plusstrand rep1
 shortLabel Tm ctrl J1 + r1 
 bigDataUrl JH208_4_S4_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 44,123,182
 group Tm
 type bigWig
@@ -110,7 +98,6 @@ track r1_untr_mt_noX-s
 longLabel JH208 untreated xrn1tpt1del noExo minusstrand rep1
 shortLabel untr mt noX - r1
 bigDataUrl JH208_5_S5_L002_R1_001.5pe.neg.bw 
-maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
 type bigWig
@@ -119,7 +106,6 @@ track r1_untr_mt_noX+s
 longLabel JH208 untreated xrn1tpt1del noExo plusstrand rep1
 shortLabel untr mt noX + r1
 bigDataUrl JH208_5_S5_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 253,174,97
 group untreated
 type bigWig
@@ -128,7 +114,6 @@ track r1_untr_mt_J1-s
 longLabel JH208 untreated xrn1tpt1del J1 minusstrand rep1
 shortLabel untr mt J1 - r1
 bigDataUrl JH208_6_S6_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
 type bigWig
@@ -137,7 +122,6 @@ track r1_untr_mt_J1+s
 longLabel JH208 untreated xrn1tpt1del J1 plusstrand rep1
 shortLabel untr mt J1 + r1
 bigDataUrl JH208_6_S6_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group untreated
 type bigWig
@@ -146,7 +130,6 @@ track r1_Tm_mt_noX-s
 longLabel JH208 Tm xrn1tpt1del noExo minusstrand rep1
 shortLabel Tm mt noX - r1
 bigDataUrl JH208_7_S7_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
 type bigWig
@@ -155,7 +138,6 @@ track r1_Tm_mt_noX+s
 longLabel JH208 Tm xrn1tpt1del noExo plusstrand rep1
 shortLabel Tm mt noX + r1
 bigDataUrl JH208_7_S7_L002_R1_001.5pe.pos.bw
-maxHeightPixels 100:30:10
 color 253,174,97
 group Tm
 type bigWig
@@ -164,7 +146,6 @@ track r1_Tm_mt_J1-s
 longLabel JH208 Tm xrn1tpt1del J1 minusstrand rep1
 shortLabel Tm mt J1 - r1
 bigDataUrl JH208_8_S8_L002_R1_001.5pe.neg.bw
-maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
 type bigWig
@@ -172,7 +153,6 @@ type bigWig
 track r1_Tm_mt_J1+s
 longLabel JH208 Tm xrn1tpt1del J1 plusstrand rep1
 shortLabel Tm mt J1 + r1
-bigDataUrl JH208_8_S8_L002_R1_001.5pe.pos.bw
 maxHeightPixels 100:30:10
 color 215,25,28
 group Tm
