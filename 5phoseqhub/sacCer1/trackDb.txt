@@ -153,7 +153,7 @@ type bigWig
 track r1_Tm_mt_J1+s
 longLabel JH208 Tm xrn1tpt1del J1 plusstrand rep1
 shortLabel Tm mt J1 + r1
-maxHeightPixels 100:30:10
+bigDataUrl JH208_8_S8_L002_R1_001.5pe.pos.bw
 color 215,25,28
 group Tm
 type bigWig
