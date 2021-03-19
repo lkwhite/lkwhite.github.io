@@ -42,7 +42,7 @@ track r1_untr_ctrl_noX+s
 longLabel JH208 untreated ctrl noExo plusstrand rep1
 shortLabel untr ctrl noX + r1
 bigDataUrl JH208_1_S1_L002_R1_001_5pe.pos.bw
-color 100:30:10
+color 171,217,233 
 group untreated
 type bigWig
 
@@ -62,8 +62,6 @@ color 44,123,182
 group untreated
 type bigWig
 
-track r1_Tm_ctrl_noX-s
-longLabel JH208 Tm ctrl noExo minusstrand rep1
 shortLabel Tm ctrl noX - r1
 bigDataUrl JH208_3_S3_L002_R1_001.5pe.neg.bw
 color 171,217,233
