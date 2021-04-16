@@ -33,7 +33,7 @@ type bigWig
 track r1_untr_ctrl_noX-s 
 longLabel JH217 untreated ctrl noExo minusstrand rep1
 shortLabel untr ctrl noX - r1
-bigDataUrl JH217_1_S1_L001_R1_001_5pe.neg.bw
+bigDataUrl JH217_1_S1_L001_R1_001.5pe.neg.bw
 color 171,217,233
 group untreated
 type bigWig
@@ -41,7 +41,7 @@ type bigWig
 track r1_untr_ctrl_noX+s
 longLabel JH217 untreated ctrl noExo plusstrand rep1
 shortLabel untr ctrl noX + r1
-bigDataUrl JH217_1_S1_L001_R1_001_5pe.pos.bw
+bigDataUrl JH217_1_S1_L001_R1_001.5pe.pos.bw
 color 171,217,233 
 group untreated
 type bigWig
