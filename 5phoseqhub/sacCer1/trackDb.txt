@@ -9,7 +9,7 @@ type bigWig
 track pilot_untr_tpt1_J1+s
 longLabel JH201 untreated tpt1d J1 plusstrand
 shortLabel untr Tpt1 J1 + 0
-bigDataUrl JH201_G1S45_L002_R1_001.5pe.pos.bw
+bigDataUrl JH201_G1_S45_L002_R1_001.5pe.pos.bw
 color 215,25,28
 group untreated
 type bigWig
