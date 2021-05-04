@@ -1,3 +1,4 @@
+track type=bedGraph name=statphase- description=statphase_negative
 chr1	58461	58462	5.75469047857931
 chr1	65920	65921	18.2416457066942
 chr1	65921	65922	48.6443193573275
