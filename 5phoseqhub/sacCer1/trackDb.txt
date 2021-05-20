@@ -30,130 +30,130 @@ color 215,25,28
 group Tm
 type bigWig
 
-track r1_untr_ctrl_noX-s 
-longLabel JH217 untreated ctrl noExo minusstrand rep1
-shortLabel untr ctrl noX - r1
-bigDataUrl JH217_1_S1_L001_R1_001.5pe.neg.bw
+track 2016_untr_noX-s 
+longLabel JH225 untreated 2016 noExo minusstrand
+shortLabel untr 2016 noX -
+bigDataUrl JH225_1_S1_L001_R1_001.5pe.neg.bw
 color 171,217,233
 group untreated
 type bigWig
 
-track r1_untr_ctrl_noX+s
-longLabel JH217 untreated ctrl noExo plusstrand rep1
-shortLabel untr ctrl noX + r1
-bigDataUrl JH217_1_S1_L001_R1_001.5pe.pos.bw
+track 2016_untr_noX+s
+longLabel JH225 untreated ctrl noExo plusstrand rep1
+shortLabel untr 2016 noX +
+bigDataUrl JH225_1_S1_L001_R1_001.5pe.pos.bw
 color 171,217,233 
 group untreated
 type bigWig
 
-track r1_untr_ctrl_J1-s
-longLabel JH217 untreated ctrl J1 minusstrand rep1
-shortLabel untr ctrl J1 - r1
-bigDataUrl JH217_2_S2_L001_R1_001.5pe.neg.bw
+track 2016_untr_J1-s
+longLabel JH225 2016 untr J1 minusstrand
+shortLabel untr 2016 J1 -
+bigDataUrl JH225_2_S2_L001_R1_001.5pe.neg.bw
 color 44,123,182
 group untreated
 type bigWig
 
-track r1_untr_ctrl_J1+s
-longLabel JH217 untreated ctrl J1 plusstrand rep1
-shortLabel untr ctrl J1 + 
-bigDataUrl JH217_2_S2_L001_R1_001.5pe.pos.bw
+track 2016_untr_J1+s
+longLabel JH225 2016 untreated J1 plusstrand
+shortLabel untr 2016 J1 + 
+bigDataUrl JH225_2_S2_L001_R1_001.5pe.pos.bw
 color 44,123,182
 group untreated
 type bigWig
 
-track r1_Tm_ctrl_noX-
-shortLabel Tm ctrl noX - r1
-longLabel JH217 Tm ctrl no Exo minusstrand rep1
-bigDataUrl JH217_3_S3_L001_R1_001.5pe.neg.bw
+track 2016_Tm_noX-s
+shortLabel Tm 2016 noX -
+longLabel JH225 2016 Tm no Exo minusstrand
+bigDataUrl JH225_3_S3_L001_R1_001.5pe.neg.bw
 color 171,217,233
 group Tm
 type bigWig
 
-track r1_Tm_ctrl_noX+s
-longLabel JH217 Tm ctrl noExo plusstrand rep1
-shortLabel Tm ctrl noX + r1
-bigDataUrl JH217_3_S3_L001_R1_001.5pe.pos.bw
+track 2016_Tm_noX+s
+longLabel JH225 2016 Tm noExo plusstrand
+shortLabel Tm 2016 noX +
+bigDataUrl JH225_3_S3_L001_R1_001.5pe.pos.bw
 color 171,217,233
 group Tm
 type bigWig
 
-track r1_Tm_ctrl_J1-s
-longLabel JH217 Tm ctrl J1 minusstrand rep1
-shortLabel Tm ctrl J1 - r1
-bigDataUrl JH217_4_S4_L001_R1_001.5pe.neg.bw
+track 2016_Tm_J1-s
+longLabel JH225 2016 Tm J1 minusstrand
+shortLabel Tm 2016 J1 -
+bigDataUrl JH225_4_S4_L001_R1_001.5pe.neg.bw
 color 44,123,182
 group Tm
 type bigWig
 
-track r1_Tm_ctrl_J1+s
-longLabel JH217 Tm ctrl J1 plusstrand rep1
-shortLabel Tm ctrl J1 + r1 
-bigDataUrl JH217_4_S4_L001_R1_001.5pe.pos.bw
+track 2016_Tm_J1+s
+longLabel JH225 2016 Tm J1 plusstrand
+shortLabel Tm 2016 J1 +
+bigDataUrl JH225_4_S4_L001_R1_001.5pe.pos.bw
 color 44,123,182
 group Tm
 type bigWig
 
-track r1_untr_mt_noX-s
-longLabel JH217 untreated xrn1tpt1del noExo minusstrand rep1
-shortLabel untr mt noX - r1
-bigDataUrl JH217_5_S5_L001_R1_001.5pe.neg.bw 
+track 2021_untr_noX-s
+longLabel JH225 2021 untreated noExo minusstrand
+shortLabel untr 2021 noX -
+bigDataUrl JH225_5_S5_L001_R1_001.5pe.neg.bw 
 color 253,174,97
 group untreated
 type bigWig
 
-track r1_untr_mt_noX+s
-longLabel JH217 untreated xrn1tpt1del noExo plusstrand rep1
-shortLabel untr mt noX + r1
-bigDataUrl JH217_5_S5_L001_R1_001.5pe.pos.bw
+track 2021_untr_noX+s
+longLabel JH225 2021 untreatedl noExo plusstrand
+shortLabel untr 2021 noX +
+bigDataUrl JH225_5_S5_L001_R1_001.5pe.pos.bw
 color 253,174,97
 group untreated
 type bigWig
 
-track r1_untr_mt_J1-s
-longLabel JH217 untreated xrn1tpt1del J1 minusstrand rep1
-shortLabel untr mt J1 - r1
-bigDataUrl JH217_6_S6_L001_R1_001.5pe.neg.bw
+track 2021_untr_J1-s
+longLabel JH225 2021 untreated J1 minusstrand1
+shortLabel untr 2021 J1 --
+bigDataUrl JH225_6_S6_L001_R1_001.5pe.neg.bw
 color 215,25,28
 group untreated
 type bigWig
 
-track r1_untr_mt_J1+s 
-longLabel JH217 untreated xrn1tpt1del J1 plusstrand rep1
-shortLabel untr mt J1 + r1
-bigDataUrl JH217_6_S6_L001_R1_001.5pe.pos.bw
+track 2021_untr_J1+s 
+longLabel JH225 2021 untreated J1 plusstrand
+shortLabel untr 2021 J1 +
+bigDataUrl JH225_6_S6_L001_R1_001.5pe.pos.bw
 color 215,25,28
 group untreated
 type bigWig
 
-track r1_Tm_mt_noX-s
-longLabel JH217 Tm xrn1tpt1del noExo minusstrand rep1
-shortLabel Tm mt noX - r1
-bigDataUrl JH217_7_S7_L001_R1_001.5pe.neg.bw
+track 2021_Tm_noX-s
+longLabel JH225 2021 Tm noExo minusstrand
+shortLabel Tm 2021 noX -
+bigDataUrl JH225_7_S7_L001_R1_001.5pe.neg.bw
 color 253,174,97
 group Tm
 type bigWig
 
-track r1_Tm_mt_noX+s
-longLabel JH217 Tm xrn1tpt1del noExo plusstrand rep1
-shortLabel Tm mt noX + r1
-bigDataUrl JH217_7_S7_L001_R1_001.5pe.pos.bw
+track 2021_Tm_noX+s
+longLabel JH225 2021 Tm noExo plusstrand
+shortLabel Tm 2021 noX +
+bigDataUrl JH225_7_S7_L001_R1_001.5pe.pos.bw
 color 253,174,97
 group Tm
 type bigWig
 
-track r1_Tm_mt_J1-s
-longLabel JH217 Tm xrn1tpt1del J1 minusstrand rep1
-shortLabel Tm mt J1 - r1
-bigDataUrl JH217_8_S8_L001_R1_001.5pe.neg.bw
+track 2021_Tm_J1-s
+longLabel JH225 2021 Tm J1 minusstrand
+shortLabel Tm 2021 J1 -
+bigDataUrl JH225_8_S8_L001_R1_001.5pe.neg.bw
 color 215,25,28
 group Tm
 type bigWig
 
 track r1_Tm_mt_J1+s
-longLabel JH217 Tm xrn1tpt1del J1 plusstrand rep1
-shortLabel Tm mt J1 + r1
-bigDataUrl JH217_8_S8_L001_R1_001.5pe.pos.bw
+longLabel JH225 2021 Tm J1 plusstrand
+shortLabel Tm 2021 J1 +
+bigDataUrl JH225_8_S8_L001_R1_001.5pe.pos.bw
 color 215,25,28
 group Tm
 type bigWig
