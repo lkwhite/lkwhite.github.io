@@ -1,0 +1,5 @@
+hub STRIPEseq 
+shortLabel STRIPEseq
+longLabel J1 vs. Xrn1 degradation and STRIPEseq to  id repaired RNA targets 
+genomesFile genomes.txt
+email laura.white@gmail.com

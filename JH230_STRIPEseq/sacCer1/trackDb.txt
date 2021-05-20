@@ -1,0 +1,528 @@
+track CRY1_nodecap_noX+
+longLabel JH230 CRY1 no decap no exo plus
+shortLabel CRY1 nodecap no exo +
+bigDataUrl JH230_1_S48_L002_R1_001.5pe.pos.bw 
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_nodecap_noX-
+longLabel JH230 CRY1 no decap no exo minus
+shortLabel CRY1 nodecap no exo -
+bigDataUrl JH230_1_S48_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_nodecap_J1+
+longLabel JH230 CRY1 no decap J1 plus
+shortLabel CRY1 nodecap J1 +
+bigDataUrl JH230_9_S56_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_nodecap_J1-
+longLabel JH230 CRY1 no decap J1 minus
+shortLabel CRY1 nodecap J1 -
+bigDataUrl JH230_9_S56_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_nodecap_Xrn1+
+longLabel JH230 CRY1 no decap Xrn1 plus
+shortLabel CRY1 nodecap Xrn1 +
+bigDataUrl JH230_17_S64_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_nodecap_Xrn1-
+longLabel JH230 CRY1 no decap Xrn1 minus
+shortLabel CRY1 nodecap Xrn1 -
+bigDataUrl JH230_17_S64_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_noX+
+longLabel JH230 CRY1 no exo plus
+shortLabel CRY1 no exo +
+bigDataUrl JH230_2_S49_L002_R1_001.5pe.pos.bw 
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_noX-
+longLabel JH230 CRY1 no exo minus
+shortLabel CRY1 no exo -
+bigDataUrl JH230_2_S49_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_J1+
+longLabel JH230 CRY1 J1 plus
+shortLabel CRY1 J1 +
+bigDataUrl JH230_10_S57_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_J1-
+longLabel JH230 CRY1 J1 minus
+shortLabel CRY1 J1 -
+bigDataUrl JH230_10_S57_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_Xrn1+
+longLabel JH230 CRY1 Xrn1 plus
+shortLabel CRY1 Xrn1 +
+bigDataUrl JH230_18_S65_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1_Xrn1-
+longLabel JH230 CRY1 Xrn1 minus
+shortLabel CRY1 Xrn1 -
+bigDataUrl JH230_18_S65_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+
+track CRY1-10x_noX+
+longLabel JH230 CRY1-10x no exo plus
+shortLabel CRY1-10x no exo +
+bigDataUrl JH230_3_S50_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1-10x_noX-
+longLabel JH230 CRY1-10x no exo minus
+shortLabel CRY1-10x no exo -
+bigDataUrl JH230_3_S50_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1-10x_J1+
+longLabel JH230 CRY1-10x J1 plus
+shortLabel CRY1-10x J1 +
+bigDataUrl JH230_11_S58_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1-10x_J1-
+longLabel JH230 CRY1-10x J1 minus
+shortLabel CRY1-10x J1 -
+bigDataUrl JH230_11_S58_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1-10x_Xrn1+
+longLabel JH230 CRY1-10x Xrn1 plus
+shortLabel CRY1-10x Xrn1 +
+bigDataUrl JH230_19_S66_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track CRY1-10x_Xrn1-
+longLabel JH230 CRY1-10x Xrn1 minus
+shortLabel CRY1-10x Xrn1 -
+bigDataUrl JH230_19_S66_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_noX+
+longLabel JH230 xrn1d no exo plus
+shortLabel xrn1d no exo +
+bigDataUrl JH230_4_S51_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_noX-
+longLabel JH230 xrn1d no exo minus
+shortLabel xrn1d no exo -
+bigDataUrl JH230_4_S51_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_J1+
+longLabel JH230 xrn1d J1 plus
+shortLabel xrn1d J1 +
+bigDataUrl JH230_12_S59_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_J1-
+longLabel JH230 xrn1d J1 minus
+shortLabel xrn1d J1 -
+bigDataUrl JH230_12_S59_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_Xrn1+
+longLabel JH230 xrn1d Xrn1 plus
+shortLabel xrn1d Xrn1 +
+bigDataUrl JH230_20_S67_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_Xrn1-
+longLabel JH230 xrn1d Xrn1 minus
+shortLabel xrn1d Xrn1 -
+bigDataUrl JH230_20_S67_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track tpt1d_noX+
+longLabel JH230 tpt1d no exo plus
+shortLabel tpt1d no exo +
+bigDataUrl JH230_2_S52_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track tpt1d_noX-
+longLabel JH230 tpt1d no exo minus
+shortLabel tpt1d no exo -
+bigDataUrl JH230_5_S52_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track tpt1d_J1+
+longLabel JH230 tpt1d J1 plus
+shortLabel tpt1d J1 +
+bigDataUrl JH230_13_S60_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track tpt1d_J1-
+longLabel JH230 tpt1d J1 minus
+shortLabel tpt1d J1 -
+bigDataUrl JH230_13_S60_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track tpt1d_Xrn1+
+longLabel JH230 tpt1d Xrn1 plus
+shortLabel tpt1d Xrn1 +
+bigDataUrl JH230_21_S68_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track tpt1d_Xrn1-
+longLabel JH230 tpt1d Xrn1 minus
+shortLabel tpt1d Xrn1 -
+bigDataUrl JH230_21_S68_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track trl1d_tpt1d_noX+
+longLabel JH230 trl1d tpt1d no exo plus
+shortLabel trl1d tpt1d no exo +
+bigDataUrl JH230_6_S53_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track trl1d_tpt1d_noX-
+longLabel JH230 trl1d tpt1d no exo minus
+shortLabel trl1d tpt1d no exo -
+bigDataUrl JH230_6_S53_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track trl1d_tpt1d_J1+
+longLabel JH230 trl1d tpt1d J1 plus
+shortLabel trl1d tpt1d J1 +
+bigDataUrl JH230_14_S61_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track trl1d_tpt1d_J1-
+longLabel JH230 trl1d tpt1d J1 minus
+shortLabel trl1d tpt1d J1 -
+bigDataUrl JH230_14_S61_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track trl1d_tpt1d_Xrn1+
+longLabel JH230 trl1d tpt1d Xrn1 plus
+shortLabel trl1d tpt1d Xrn1 +
+bigDataUrl JH230_22_S69_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track trl1d_tpt1d_Xrn1-
+longLabel JH230 trl1d tpt1d Xrn1 minus
+shortLabel trl1d tpt1d Xrn1 -
+bigDataUrl JH230_22_S69_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_tpt1d_noX+
+longLabel JH230 xrn1d tpt1d no exo plus
+shortLabel xrn1d tpt1d no exo +
+bigDataUrl JH230_7_S54_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_tpt1d_noX-
+longLabel JH230 xrn1d tpt1d no exo minus
+shortLabel xrn1d tpt1d no exo -
+bigDataUrl JH230_7_S54_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_tpt1d_J1+
+longLabel JH230 xrn1d tpt1d J1 plus
+shortLabel xrn1d tpt1d J1 +
+bigDataUrl JH230_15_S62_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_tpt1d_J1-
+longLabel JH230 xrn1d tpt1d J1 minus
+shortLabel xrn1d tpt1d J1 -
+bigDataUrl JH230_15_S62_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_tpt1d_Xrn1+
+longLabel JH230 xrn1d tpt1d Xrn1 plus
+shortLabel xrn1d tpt1d Xrn1 +
+bigDataUrl JH230_23_S70_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track xrn1d_tpt1d_Xrn1-
+longLabel JH230 xrn1d tpt1d Xrn1 minus
+shortLabel xrn1d tpt1d Xrn1 -
+bigDataUrl JH230_23_S70_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track Tm_xrn1d_tpt1d_noX+
+longLabel JH230 Tm xrn1d tpt1d no exo plus
+shortLabel Tm xrn1d tpt1d no exo +
+bigDataUrl JH230_8_S55_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track Tm_xrn1d_tpt1d_noX-
+longLabel JH230 Tm xrn1d tpt1d no exo minus
+shortLabel Tm xrn1d tpt1d no exo -
+bigDataUrl JH230_8_S55_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track Tm_xrn1d_tpt1d_J1+
+longLabel JH230 Tm xrn1d tpt1d J1 plus
+shortLabel Tm xrn1d tpt1d J1 +
+bigDataUrl JH230_16_S63_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track Tm_xrn1d_tpt1d_J1-
+longLabel JH230 Tm xrn1d tpt1d J1 minus
+shortLabel Tm xrn1d tpt1d J1 -
+bigDataUrl JH230_16_S63_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track Tm_xrn1d_tpt1d_Xrn1+
+longLabel JH230 Tm xrn1d tpt1d Xrn1 plus
+shortLabel Tm xrn1d tpt1d Xrn1 +
+bigDataUrl JH230_24_S71_L002_R1_001.5pe.pos.bw
+color 215,25,28
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
+
+track Tm_xrn1d_tpt1d_Xrn1-
+longLabel JH230 Tm xrn1d tpt1d Xrn1 minus
+shortLabel Tm xrn1d tpt1d Xrn1 -
+bigDataUrl JH230_24_S71_L002_R1_001.5pe.neg.bw
+color 44,123,182
+maxHeightPixels 100:16:8
+autoScale on
+alwaysZero on
+group untreated
+type bigWig
