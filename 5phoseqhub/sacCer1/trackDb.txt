@@ -39,7 +39,7 @@ group untreated
 type bigWig
 
 track 2016_untr_noX+s
-longLabel JH225 untreated ctrl noExo plusstrand rep1
+longLabel JH225 untreated ctrl noExo plusstrand
 shortLabel untr 2016 noX +
 bigDataUrl JH225_1_S1_L001_R1_001.5pe.pos.bw
 color 171,217,233 
@@ -112,7 +112,7 @@ type bigWig
 
 track 2021_untr_J1-s
 longLabel JH225 2021 untreated J1 minusstrand1
-shortLabel untr 2021 J1 --
+shortLabel untr 2021 J1 -
 bigDataUrl JH225_6_S6_L001_R1_001.5pe.neg.bw
 color 215,25,28
 group untreated
@@ -150,7 +150,7 @@ color 215,25,28
 group Tm
 type bigWig
 
-track r1_Tm_mt_J1+s
+track 2021_Tm_J1+s
 longLabel JH225 2021 Tm J1 plusstrand
 shortLabel Tm 2021 J1 +
 bigDataUrl JH225_8_S8_L001_R1_001.5pe.pos.bw
