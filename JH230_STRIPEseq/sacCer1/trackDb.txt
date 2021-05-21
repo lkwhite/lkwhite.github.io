@@ -266,7 +266,7 @@ type bigWig
 track tpt1d_noX+
 longLabel JH230 tpt1d no exo plus
 shortLabel tpt1d no exo +
-bigDataUrl JH230_2_S52_L002_R1_001.5pe.pos.bw
+bigDataUrl JH230_5_S52_L002_R1_001.5pe.pos.bw
 color 215,25,28
 maxHeightPixels 100:32:8
 autoScale on
