@@ -1,0 +1,5 @@
+hub nanopore2P 
+shortLabel nanopore2P
+longLabel direct RNAseq pilot to id cand 2P sites 
+genomesFile genomes.txt
+email laura.white@gmail.com
