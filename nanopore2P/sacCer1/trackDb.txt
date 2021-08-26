@@ -25,7 +25,7 @@ type bigWig
 track Tm_Xrn1-
 longLabel Tm_Xrn1_neg
 shortLabel Tm_Xrn1-
-bigDataUrl Tm_Xrn1_pos.bw
+bigDataUrl Tm_Xrn1_neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
