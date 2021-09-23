@@ -1,3 +1,19 @@
+track DMSO_no_exo_dwell+
+longLabel DMSO_no_exo_dwell_pos
+shortLabel DMSO_no_exo_dwell+
+bigDataUrl dwell.control.plus.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track DMSO_no_exo+dwell-
+longLabel DMSO_no_exo_dwell_neg
+shortLabel DMSO_no_exo_dwell-
+bigDataUrl dwell.control.minus.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
 track Tm_no_exo_dwell+
 longLabel Tm_no_exo_dwell_pos
 shortLabel Tm_no_exo_dwell+
