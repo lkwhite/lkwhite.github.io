@@ -1,3 +1,76 @@
+track Tm_no_exo_dwell+
+longLabel Tm_no_exo_dwell_pos
+shortLabel Tm_no_exo_dwell+
+bigDataUrl Tm_no_exo.dwell.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track Tm_no_exo+dwell-
+longLabel Tm_no_exo_dwell_neg
+shortLabel Tm_no_exo_dwell-
+bigDataUrl Tm_no_exo.dwell.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+
+type bigWig
+track no_exo_fmod+
+longLabel no_exo_fmod_pos
+shortLabel no_exo_fmod+
+bigDataUrl fraction_modified_reads.plus.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track no_exo_fmod-
+longLabel no_exo.fmod.neg
+shortLabel no_exo_fmod-
+bigDataUrl fraction_modified_reads.minus.bw 
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
+type bigWig
+track no_exo_dampfmod+
+longLabel no_exo_dampened_fmod_pos
+shortLabel no_exo_dampfmod+
+bigDataUrl dampened_fraction_modified_reads.plus.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track no_exo_dampfmod-
+longLabel no_exo_dampened_fmod.neg
+shortLabel no_exo_dampfmod-
+bigDataUrl dampened_fraction_modified_reads.minus.bw 
+maxHeightPixels 30:30:10
+color 55,126,184
+
+type bigWig
+track Tm_noexo_BAM
+longLabel Tm_noexo_BAM
+shortLabel Tm_noexo_BAM
+bigDataUrl Tm_no_exo.align.bam
+maxHeightPixels 50:50:10
+color 33,19,13 
+type bam
+
+track DMSO_Xrn1_BAM
+longLabel DMSO_Xrn1_BAM
+shortLabel DMSO_Xrn1_BAM
+bigDataUrl DMSO_Xrn1.align.bam
+maxHeightPixels 50:50:10
+color 33,19,13 
+type bam
+
+track Tm_Xrn1_BAM
+longLabel Tm_Xrn1_BAM
+shortLabel Tm_Xrn1_BAM
+bigDataUrl Tm_Xrn1.align.bam
+maxHeightPixels 50:50:10
+color 33,19,13 
+type bam
+
 track DMSO_Xrn1+
 longLabel DMSO_Xrn1_pos
 shortLabel DMSO_Xrn1+
