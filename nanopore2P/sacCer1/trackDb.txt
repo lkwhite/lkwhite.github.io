@@ -12,8 +12,8 @@ shortLabel Tm_no_exo_dwell-
 bigDataUrl Tm_no_exo.dwell.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
-
 type bigWig
+
 track no_exo_fmod+
 longLabel no_exo_fmod_pos
 shortLabel no_exo_fmod+
@@ -45,31 +45,7 @@ shortLabel no_exo_dampfmod-
 bigDataUrl dampened_fraction_modified_reads.minus.bw 
 maxHeightPixels 30:30:10
 color 55,126,184
-
 type bigWig
-track Tm_noexo_BAM
-longLabel Tm_noexo_BAM
-shortLabel Tm_noexo_BAM
-bigDataUrl Tm_no_exo.align.bam
-maxHeightPixels 50:50:10
-color 33,19,13 
-type bam
-
-track DMSO_Xrn1_BAM
-longLabel DMSO_Xrn1_BAM
-shortLabel DMSO_Xrn1_BAM
-bigDataUrl DMSO_Xrn1.align.bam
-maxHeightPixels 50:50:10
-color 33,19,13 
-type bam
-
-track Tm_Xrn1_BAM
-longLabel Tm_Xrn1_BAM
-shortLabel Tm_Xrn1_BAM
-bigDataUrl Tm_Xrn1.align.bam
-maxHeightPixels 50:50:10
-color 33,19,13 
-type bam
 
 track DMSO_Xrn1+
 longLabel DMSO_Xrn1_pos
