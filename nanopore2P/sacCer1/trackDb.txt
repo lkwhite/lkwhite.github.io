@@ -9,7 +9,7 @@ type bigWig
 track CRY1_DMSO_Xrn1-
 longLabel CRY1_DMSO_Xrn1_neg
 shortLabel CRY1_DMSO_Xrn1-
-bigDataUrl CRY1.DMSO.Xrn1.5pe.pos.bw
+bigDataUrl CRY1.DMSO.Xrn1.5pe.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
