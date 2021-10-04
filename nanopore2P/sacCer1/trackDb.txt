@@ -1,3 +1,51 @@
+track CRY1_DMSO_Xrn1+
+longLabel CRY1_DMSO_Xrn1_pos
+shortLabel CRY1_DMSO_Xrn1+
+bigDataUrl CRY1.DMSO.Xrn1.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track CRY1_DMSO_Xrn1-
+longLabel CRY1_DMSO_Xrn1_neg
+shortLabel CRY1_DMSO_Xrn1-
+bigDataUrl CRY1.DMSO.Xrn1.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
+track CRY1_Tm_Xrn1+ 
+longLabel CRY1_Tm_Xrn1_pos
+shortLabel CRY1_Tm_Xrn1+
+bigDataUrl CRY1.Tm.Xrn1.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track CRY1_Tm_Xrn1-
+longLabel CRY1_Tm_Xrn1_neg
+shortLabel CRY1_Tm_Xrn1-
+bigDataUrl CRY1.Tm.Xrn1.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
+track CRY1_Tm_no_exo+
+longLabel CRY1_Tm_no_exo_pos
+shortLabel CRY1_Tm_no_exo+
+bigDataUrl CRY1.Tm.NoExo.5pe.pos.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track CRY1_Tm_no_exo-
+longLabel CRY1_Tm_no_exo_neg
+shortLabel CRY1_Tm_no_exo-
+bigDataUrl CRY1.Tm.NoExo.5pe.neg.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
 track DMSO_no_exo_dwell+
 longLabel DMSO_no_exo_dwell_pos
 shortLabel DMSO_no_exo_dwell+
