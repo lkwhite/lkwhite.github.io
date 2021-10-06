@@ -46,88 +46,87 @@ maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
 
-track DMSO_no_exo_dwell+
-longLabel DMSO_no_exo_dwell_pos
-shortLabel DMSO_no_exo_dwell+
-bigDataUrl dwell.control.plus.bw
+track WTvsMT_Tm_NoExo.dampened_fraction_modified.pos
+longLabel CRY1vsxrn1tpt1_Tm_no_exo_dampened_fraction_modified.positive
+shortLabel CRY1vsxrn1tpt1_Tm_no_exo_dfracmod.pos
+bigDataUrl xrn1tpt1_vs_CRY1_Tm_NoExo.dampened_fraction_modified_reads.plus.bw
 maxHeightPixels 30:30:10
 color 228,26,28
 type bigWig
 
-track DMSO_no_exo+dwell-
-longLabel DMSO_no_exo_dwell_neg
-shortLabel DMSO_no_exo_dwell-
-bigDataUrl dwell.control.minus.bw
+track WTvsMT_Tm_NoExo.dampened_fraction_modified.neg 
+longLabel CRY1vsxrn1tpt1_Tm_no_exo_dampened_fraction_modified.negative
+shortLabel CRY1vsxrn1tpt1_Tm_no_exo_dfracmod.neg
+bigDataUrl xrn1tpt1_vs_CRY1_Tm_NoExo.dampened_fraction_modified_reads.minus.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
 
-track Tm_no_exo_dwell+
-longLabel Tm_no_exo_dwell_pos
-shortLabel Tm_no_exo_dwell+
+track WTvsMT_Tm_NoExo.fraction_modified.pos
+longLabel CRY1vsxrn1tpt1_Tm_no_exo_fraction_modified.positive
+shortLabel CRY1vsxrn1tpt1_Tm_no_fracmod.pos
+bigDataUrl xrn1tpt1_vs_CRY1_Tm_NoExo.fraction_modified_reads.plus.bw
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track WTvsMT_Tm_NoExo.fraction_modified.neg 
+longLabel CRY1vsxrn1tpt1_Tm_no_exo_fraction_modified.negative
+shortLabel CRY1vsxrn1tpt1_Tm_no_exo_fracmod.neg
+bigDataUrl xrn1tpt1_vs_CRY1_Tm_NoExo.fraction_modified_reads.minus.bw
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
+track CRY1_DMSO_no_exo_dwell+
+longLabel CRY1_DMSO_no_exo_dwell_pos
+shortLabel CRY1_DMSO_no_exo_dwell+
+bigDataUrl CRY1_Tm_NoExo.dwell.control.plus.bw 
+maxHeightPixels 30:30:10
+color 228,26,28
+type bigWig
+
+track CRY1_DMSO_no_exo+dwell-
+longLabel CRY1_DMSO_no_exo_dwell_neg
+shortLabel CRY1_DMSO_no_exo_dwell-
+bigDataUrl CRY1_Tm_NoExo.dwell.control.minus.bw 
+maxHeightPixels 30:30:10
+color 55,126,184
+type bigWig
+
+track xrn1tpt1_Tm_no_exo_dwell+
+longLabel xrn1tpt1_Tm_no_exo_dwell_pos
+shortLabel xrn1tpt1_Tm_no_exo_dwell+
 bigDataUrl Tm_no_exo.dwell.pos.bw
 maxHeightPixels 30:30:10
 color 228,26,28
 type bigWig
 
-track Tm_no_exo+dwell-
-longLabel Tm_no_exo_dwell_neg
-shortLabel Tm_no_exo_dwell-
+track xrn1tpt1_Tm_no_exo+dwell-
+longLabel xrn1tpt1_Tm_no_exo_dwell_neg
+shortLabel xrn1tpt1_Tm_no_exo_dwell-
 bigDataUrl Tm_no_exo.dwell.neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
 
-track no_exo_fmod+
-longLabel no_exo_fmod_pos
-shortLabel no_exo_fmod+
-bigDataUrl fraction_modified_reads.plus.bw 
-maxHeightPixels 30:30:10
-color 228,26,28
-type bigWig
-
-track no_exo_fmod-
-longLabel no_exo.fmod.neg
-shortLabel no_exo_fmod-
-bigDataUrl fraction_modified_reads.minus.bw 
-maxHeightPixels 30:30:10
-color 55,126,184
-type bigWig
-
-type bigWig
-track no_exo_dampfmod+
-longLabel no_exo_dampened_fmod_pos
-shortLabel no_exo_dampfmod+
-bigDataUrl dampened_fraction_modified_reads.plus.bw 
-maxHeightPixels 30:30:10
-color 228,26,28
-type bigWig
-
-track no_exo_dampfmod-
-longLabel no_exo_dampened_fmod.neg
-shortLabel no_exo_dampfmod-
-bigDataUrl dampened_fraction_modified_reads.minus.bw 
-maxHeightPixels 30:30:10
-color 55,126,184
-type bigWig
-
-track DMSO_Xrn1+
-longLabel DMSO_Xrn1_pos
-shortLabel DMSO_Xrn1+
+track xrn1tpt1_DMSO_Xrn1+
+longLabel xrn1tpt1_DMSO_Xrn1_pos
+shortLabel xrn1tpt1_DMSO_Xrn1+
 bigDataUrl DMSO_Xrn1_pos.bw
 maxHeightPixels 30:30:10
 color 228,26,28
 type bigWig
 
-track DMSO_Xrn1-
-longLabel DMSO_Xrn1_neg
-shortLabel DMSO_Xrn1-
+track xrn1tpt1_DMSO_Xrn1-
+longLabel xrn1tpt1_DMSO_Xrn1_neg
+shortLabel xrn1tpt1_DMSO_Xrn1-
 bigDataUrl DMSO_Xrn1_neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
 
-track Tm_Xrn1+ 
+track xrn1tpt1_Tm_Xrn1+ 
 longLabel Tm_Xrn1_pos
 shortLabel Tm_Xrn1+
 bigDataUrl Tm_Xrn1_pos.bw
@@ -135,15 +134,15 @@ maxHeightPixels 30:30:10
 color 228,26,28
 type bigWig
 
-track Tm_Xrn1-
-longLabel Tm_Xrn1_neg
-shortLabel Tm_Xrn1-
+track xrn1tpt1_Tm_Xrn1-
+longLabel xrn1tpt1_Tm_Xrn1_neg
+shortLabel xrn1tpt1_Tm_Xrn1-
 bigDataUrl Tm_Xrn1_neg.bw
 maxHeightPixels 30:30:10
 color 55,126,184
 type bigWig
 
-track Tm_no_exo+
+track xrn1tpt1_Tm_no_exo+
 longLabel Tm_no_exo_pos
 shortLabel Tm_no_exo+
 bigDataUrl Tm_no_exo_pos.bw
@@ -151,7 +150,7 @@ maxHeightPixels 30:30:10
 color 228,26,28
 type bigWig
 
-track Tm_no_exo-
+track xrn1tpt1_Tm_no_exo-
 longLabel Tm_no_exo_neg
 shortLabel Tm_no_exo-
 bigDataUrl Tm_no_exo_neg.bw
